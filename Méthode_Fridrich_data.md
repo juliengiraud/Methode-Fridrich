@@ -77,11 +77,11 @@ Les PLL (Permutation Last Layer) sont l'étape où l'on va permuter les coins et
 
 Pour lire ce langage il faut connaître les choses suivantes :
 
-- Une lettre correspond à une face (Front - Up - Right - Left - Down - Back), je vais également ajouter Milieu qui est un petit peu différent dans ma version du langage
+- Une lettre correspond à une face (Front - Up - Right - Left - Down - Back), plus le M pour la tranche du Milieu
 
-- Une majuscule simple signifie qu'il faut tourner la face dans le sens des aiguilles d'une montre (lorsqu'elle est positionnée face à nous). Une apostrophe correspond au mouvement inverse donc dans le sens inverse des aiguilles d'une montre et le chiffre 2 veut dire qu'il faut tourner deux fois la face (donc le sens n'a aucune importance)
+- Une majuscule signifie qu'il faut tourner la face dans le sens des aiguilles d'une montre. Une apostrophe correspond au mouvement inverse donc dans le sens inverse des aiguilles d'une montre et le chiffre 2 veut dire qu'il faut tourner deux fois la face (donc le sens n'a aucune importance)
 
-- Une minuscule signifie qu'il faut tourner la face et la tranche du milieu consécutive dans le même sens selon l'apostrophe, le chiffre 2 ou rien (donc la seule face à tourner est celle désignée par la lettre)
+- Une minuscule signifie qu'il faut tourner la face et la tranche du milieu dans le même sens
 
 ![petit-cube-fait](images/cubes/petit-cube-fait.png)
 
@@ -99,7 +99,7 @@ Si vous êtes perdu pas d'inquiétude, les exemples seront plus clairs !
 
 ![moyen-cube-fait](images/cubes/moyen-cube-fait.png)
 
-Afin de vous présenter le langage, nous allons mettre la face bleue face à nous avec la face jaune au dessus
+Afin de vous présenter le langage, nous allons mettre la face bleue devant nous avec la face jaune au dessus
 
 ![R](images/mouvements/R.png) ![R'](images/mouvements/R'.png) ![R2](images/mouvements/R2.png) ![r](images/mouvements/r.png)  
 R - R' - R2 - r
@@ -463,7 +463,7 @@ Vous pouvez maintenant passer à l'apprentissage. Bonne chance !
 27. ![OLL-27](images/OLL/OLL-27.png) R' U2 R2 U R' U R U2 B' R' B
 28. ![OLL-28](images/OLL/OLL-28.png) L' B' L U' R' U R U' R' U R L' B L
 29. ![OLL-29](images/OLL/OLL-29.png) F U R U' R' U R U' R' F'
-30. ![OLL-30](images/OLL/OLL-30.png) U' R U R' U R d' R U' R' F'
+30. ![OLL-30](images/OLL/OLL-30.png) R U R' U R d' R U' R' F'
 
 ### Les "L"
 
