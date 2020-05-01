@@ -83,11 +83,9 @@ Pour lire ce langage il faut connaître les choses suivantes :
 
 - Une minuscule signifie qu'il faut tourner la face et la tranche du milieu dans le même sens
 
-![petit-cube-fait](images/cubes/petit-cube-fait.png)
-
-Si vous êtes perdu pas d'inquiétude, les exemples seront plus clairs !
-
-![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png)
+||||
+|:-|:-:|-:|
+| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Si vous êtes perdu pas d'inquiétude, les exemples seront plus clairs ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
 
 ---
 
@@ -101,14 +99,14 @@ Si vous êtes perdu pas d'inquiétude, les exemples seront plus clairs !
 
 Afin de vous présenter le langage, nous allons mettre la face bleue devant nous avec la face jaune au dessus
 
-![R](images/mouvements/R.png) ![R'](images/mouvements/R'.png) ![R2](images/mouvements/R2.png) ![r](images/mouvements/r.png)  
-R - R' - R2 - r
-
-![r'](images/mouvements/r'.png) ![r2](images/mouvements/r2.png) ![L](images/mouvements/L.png) ![L'](images/mouvements/L'.png)  
-r' - r2 - L - L'
-
-![L2](images/mouvements/L2.png) ![l](images/mouvements/l.png) ![l'](images/mouvements/l'.png) ![l2](images/mouvements/l2.png)  
-L2 - l - l' - l2
+|||||
+|:-:|:-:|:-:|:-:|
+| ![R](images/mouvements/R.png) | ![R'](images/mouvements/R'.png) | ![R2](images/mouvements/R2.png) | ![r](images/mouvements/r.png) |
+| R | R' | R2 | r |
+| ![r'](images/mouvements/r'.png) | ![r2](images/mouvements/r2.png) | ![L](images/mouvements/L.png) | ![L'](images/mouvements/L'.png) |
+| r' | r2 | L | L' |
+| ![L2](images/mouvements/L2.png) | ![l](images/mouvements/l.png) | ![l'](images/mouvements/l'.png) | ![l2](images/mouvements/l2.png) |
+| L2 | l | l' | l2 |
 
 ---
 
@@ -118,17 +116,25 @@ L2 - l - l' - l2
 
 ![petit-cube-engrenages](images/petit-cube-engrenages.png)
 
-![U](images/mouvements/U.png) ![U'](images/mouvements/U'.png) ![U2](images/mouvements/U2.png) ![u](images/mouvements/u.png)  
-U - U' - U2 - u
+|||||
+|:-:|:-:|:-:|:-:|
+| ![U](images/mouvements/U.png) | ![U'](images/mouvements/U'.png) | ![U2](images/mouvements/U2.png) | ![u](images/mouvements/u.png) |
+| U | U' | U2 | u |
 
-![u'](images/mouvements/u'.png) ![u2](images/mouvements/u2.png) ![D](images/mouvements/D.png) ![D'](images/mouvements/D'.png)  
-u' - u2 - D - D'
+|||||
+|:-:|:-:|:-:|:-:|
+| ![u'](images/mouvements/u'.png) | ![u2](images/mouvements/u2.png) | ![D](images/mouvements/D.png) | ![D'](images/mouvements/D'.png) |
+| u' | u2 | D | D' |
 
-![D2](images/mouvements/D2.png) ![d](images/mouvements/d.png) ![d'](images/mouvements/d'.png) ![d2](images/mouvements/d2.png)  
-D2 - d - d' - d2
+|||||
+|:-:|:-:|:-:|:-:|
+| ![D2](images/mouvements/D2.png) | ![d](images/mouvements/d.png) | ![d'](images/mouvements/d'.png) | ![d2](images/mouvements/d2.png) |
+| D2 | d | d' | d2 |
 
-![F](images/mouvements/F.png) ![F'](images/mouvements/F'.png) ![F2](images/mouvements/F2.png) ![B](images/mouvements/B.png)  
-F - F' - F2 - B
+|||||
+|:-:|:-:|:-:|:-:|
+| ![F](images/mouvements/F.png) | ![F'](images/mouvements/F'.png) | ![F2](images/mouvements/F2.png) | ![B](images/mouvements/B.png) |
+| F | F' | F2 | B |
 
 ---
 
