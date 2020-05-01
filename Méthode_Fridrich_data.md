@@ -13,13 +13,13 @@
 - Introduction à la méthode
 
   - Présentation de la méthode
-  - Présentation du langage universel
+  - Présentation du **langage universel**
   - Astuces et conseils pour l'apprentissage
 
 - Méthode complète
 
-  - La croix parfaite
-  - Les **42** F2L (First Two Layers)
+  - La **croix** parfaite
+  - Les **41** F2L (First Two Layers)
   - Les **57** OLL (Orientation Last Layer)
   - Les **21** PLL (Permutation Last Layer)
 
@@ -29,43 +29,40 @@
 
 ![grand-crane](images/grand-crane.png)
 
-> La méthode créée par Jessica Fridrich autrement appelé la méthode CFOP (Cross F2L OLL PLL) est une technique de résolution du Rubik's Cube 3x3x3 très rapide et souvent utilisée par les champions lors des compétitions.  
-> Cette méthode ne nécessite pas la moindre "grande intelligence", les seules qualités requises sont une bonne mémoire et il est préférable d'avoir de bon reflex dans les doigts.
+> La méthode créée par **Jessica Fridrich** autrement appelé la méthode CFOP (Cross F2L OLL PLL) est une technique de résolution du Rubik's Cube 3x3x3 très rapide et souvent utilisée par les champions lors des compétitions.  
+> Cette méthode ne nécessite pas la moindre "grande intelligence", les seules qualités requises sont le **temps** ainsi que la **patience**. Il n’est pas nécessaire d’avoir une bonne mémoire tant que vous **pratiquez** régulièrement !
 
 Le but est de résoudre le Rubik's Cube en 4 étapes, soit la croix et 6 algorithmes au maximum :
 
 ### Étape 1
 
-![croix](images/cubes/croix.png)
-
-La croix (Cross) est résolue logiquement avec une moyenne de 8 mouvements en 2-3 secondes, pour arriver à la résoudre aussi rapidement il est nécessaire de bien connaître les couleurs de son cube et de beaucoup s'entraîner afin de préparer les mouvements à l'avance. Il n'y a pas vraiment d'algorithme à apprendre pour cette étape.
+| _____________________________ ||
+|-|-|
+| ![croix](images/cubes/croix.png) | La **croix** (Cross) est résolue logiquement avec une moyenne de 8 mouvements en 2-3 secondes, pour arriver à la résoudre aussi rapidement il est nécessaire de bien connaître les couleurs de son cube et de beaucoup s'entraîner afin de préparer les mouvements à l'avance. Il n'y a pas vraiment d'algorithme à apprendre pour cette étape. |
 
 ---
 
-![petit-crane](images/petit-crane.png)
-
-[Rappel : Méthode Fridrich : Qu'est-ce que la méthode CFOP ?]
-
-![petit-cube-engrenages](images/petit-cube-engrenages.png)
+||||
+|-|-|-|
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : Qu'est-ce que la méthode CFOP ?** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
 
 ### Étape 2
 
-![F2L](images/cubes/F2L.png)
-
-Les F2L (First Two Layers) sont l'étape la plus longue consistant à résoudre les deux premiers étages. Le but est de regrouper un coin et une arête complémentaires appartenant à la face de référence (dont la couleur est celle de la croix) puis de les placer en même temps.  
-Cette étape regroupe 42 cas dont 41 algorithmes (plus le cas résolu) mais elle peut se faire logiquement pour certains. Il est cependant préférable d'apprendre les algorithmes de la méthode pour aller plus vite.
+| ____________________________ ||
+|-|-|
+| ![F2L](images/cubes/F2L.png) | Les **F2L** (First Two Layers) sont l'étape la plus longue consistant à résoudre les *deux premiers étages*. Le but est de regrouper un coin et une arête complémentaires appartenant à la face de référence (dont la couleur est celle de la croix) puis de les placer en même temps. <br/> Cette étape regroupe 41 algorithmes mais elle peut se faire logiquement pour certains. Il est cependant préférable d'apprendre les algorithmes de la méthode pour aller plus vite. |
 
 ### Étape 3
 
-![OLL](images/cubes/OLL.png)
-
-Les OLL (Orientation Last Layer) sont l'étape consistant à orienter tous les cubes de la couleur de la dernière face sur celle-ci (la face opposée à la première face) afin qu'elle soit unicolore et qu'il ne reste plus que la troisième couronne à compléter. Cette étape regroupe 57 algorithmes.
+| ____________________________ ||
+|-|-|
+| ![OLL](images/cubes/OLL.png) | Les **OLL** (Orientation Last Layer) sont l'étape consistant à orienter tous les cubes de la couleur de la dernière face sur celle-ci (la face opposée à la première face) afin qu'elle soit unicolore et qu'il ne reste plus que la troisième couronne à compléter. Cette étape regroupe 57 algorithmes. |
 
 ### Étape 4
 
-![grand-cube-fait](images/cubes/grand-cube-fait.png)
-
-Les PLL (Permutation Last Layer) sont l'étape où l'on va permuter les coins et les arêtes de la troisième couronne afin de refaire le cube. Cette étape regroupe 21 algorithmes.
+| ______________________________ ||
+|-|-|
+| ![grand-cube-fait](images/cubes/grand-cube-fait.png) | Les **PLL** (Permutation Last Layer) sont l'étape où l'on va permuter les coins et les arêtes de la troisième couronne afin de refaire le cube. Cette étape regroupe 21 algorithmes. |
 
 ---
 
@@ -77,9 +74,9 @@ Les PLL (Permutation Last Layer) sont l'étape où l'on va permuter les coins et
 
 Pour lire ce langage il faut connaître les choses suivantes :
 
-- Une lettre correspond à une face (Front - Up - Right - Left - Down - Back), plus le M pour la tranche du Milieu
+- Une **lettre** correspond à une face (Front - Up - Right - Left - Down - Back), plus le M pour la tranche du Milieu
 
-- Une majuscule signifie qu'il faut tourner la face dans le sens des aiguilles d'une montre. Une apostrophe correspond au mouvement inverse donc dans le sens inverse des aiguilles d'une montre et le chiffre 2 veut dire qu'il faut tourner deux fois la face (donc le sens n'a aucune importance)
+- Une **majuscule** signifie qu'il faut tourner la face dans le sens des aiguilles d'une montre. Une **apostrophe** correspond au mouvement inverse donc dans le sens inverse des aiguilles d'une montre et le chiffre **2** veut dire qu'il faut tourner deux fois la face (donc le sens n'a aucune importance)
 
 - Une minuscule signifie qu'il faut tourner la face et la tranche du milieu dans le même sens
 
@@ -89,15 +86,13 @@ Pour lire ce langage il faut connaître les choses suivantes :
 
 ---
 
-![petit-crane](images/petit-crane.png)
+||||
+|-|-|-|
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : Le langage universel** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
 
-[Rappel : Méthode Fridrich : Le langage universel]
-
-![petit-cube-engrenages](images/petit-cube-engrenages.png)
-
-![moyen-cube-fait](images/cubes/moyen-cube-fait.png)
-
-Afin de vous présenter le langage, nous allons mettre la face bleue devant nous avec la face jaune au dessus
+|______________________||
+|-|-|
+| ![moyen-cube-fait](images/cubes/moyen-cube-fait.png) | Afin de vous présenter le langage, nous allons mettre la face bleue devant nous avec la face jaune au dessus |
 
 |||||
 |:-:|:-:|:-:|:-:|
@@ -110,66 +105,48 @@ Afin de vous présenter le langage, nous allons mettre la face bleue devant nous
 
 ---
 
-![petit-crane](images/petit-crane.png)
-
-[Rappel : Méthode Fridrich : Le langage universel]
-
-![petit-cube-engrenages](images/petit-cube-engrenages.png)
+||||
+|-|-|-|
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : Le langage universel** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
 
 |||||
 |:-:|:-:|:-:|:-:|
 | ![U](images/mouvements/U.png) | ![U'](images/mouvements/U'.png) | ![U2](images/mouvements/U2.png) | ![u](images/mouvements/u.png) |
 | U | U' | U2 | u |
-
-|||||
-|:-:|:-:|:-:|:-:|
 | ![u'](images/mouvements/u'.png) | ![u2](images/mouvements/u2.png) | ![D](images/mouvements/D.png) | ![D'](images/mouvements/D'.png) |
 | u' | u2 | D | D' |
-
-|||||
-|:-:|:-:|:-:|:-:|
 | ![D2](images/mouvements/D2.png) | ![d](images/mouvements/d.png) | ![d'](images/mouvements/d'.png) | ![d2](images/mouvements/d2.png) |
 | D2 | d | d' | d2 |
-
-|||||
-|:-:|:-:|:-:|:-:|
 | ![F](images/mouvements/F.png) | ![F'](images/mouvements/F'.png) | ![F2](images/mouvements/F2.png) | ![B](images/mouvements/B.png) |
 | F | F' | F2 | B |
 
 ---
 
-![petit-crane](images/petit-crane.png)
+||||
+|-|-|-|
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : Le langage universel** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
 
-[Rappel : Méthode Fridrich : Le langage universel]
-
-![petit-cube-engrenages](images/petit-cube-engrenages.png)
-
-![B'](images/mouvements/B'.png) ![B2](images/mouvements/B2.png) ![M](images/mouvements/M.png)  
-B' - B2 - M
-
-![M'](images/mouvements/M'.png) ![M2](images/mouvements/M2.png)  
-M' - M2
+||||
+|:-:|:-:|:-:|
+| ![B'](images/mouvements/B'.png) | ![B2](images/mouvements/B2.png) | ![M](images/mouvements/M.png) |
+| B' | B2 | M |
+| ![M'](images/mouvements/M'.png) | ![M2](images/mouvements/M2.png) |
+| M' | M2 |
 
 Je tiens à préciser que dans le réel langage universel, M et M' sont inversés et il y a d'autres mouvements qui ne sont pas utilisés dans les algorithmes de la méthode.
 
 Il y a également les changements de points de vue à connaître pour lire les algorithmes, je les représente par une flèche indiquant la face de référence avant et après avoir changé de point de vue.  
 Pour généraliser, FaceA → FaceB siginfie que l'on doit déplacer le cube (sans faire de mouvement) de façon à ce que la face "B" soit positionnée à la place de la face "A" qui est placée face à nous.
 
-![petit-cube-fait](images/cubes/petit-cube-fait.png)
-
-Si vous êtes perdu pas d'inquiétude, les exemples reviennent !
-
-![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png)
+||||
+|:-|:-:|-:|
+| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Si vous êtes perdu pas d'inquiétude, <br/> les exemples reviennent ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
 
 ---
 
-![petit-crane](images/petit-crane.png)
-
-[Rappel : Méthode Fridrich : Le langage universel]
-
-![petit-cube-engrenages](images/petit-cube-engrenages.png)
-
-![moyen-cube-fait](images/cubes/moyen-cube-fait.png)
+||||
+|-|-|-|
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : Le langage universel** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) | ![moyen-cube-fait](images/cubes/moyen-cube-fait.png) |
 
 On prend une fois de plus la face bleue comme référence.  
 Voici donc tous les cas utilisés dans les algorithmes que je vous présente :
@@ -188,11 +165,9 @@ La face du bas passe à la place de la face de devant. On le note D→F.
 
 ---
 
-![petit-crane](images/petit-crane.png)
-
-[Rappel : Méthode Fridrich : Le langage universel]
-
-![petit-cube-engrenages](images/petit-cube-engrenages.png)
+||||
+|-|-|-|
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : Le langage universel** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
 
 ![moyen-cube-fait](images/cubes/moyen-cube-fait.png) → ![moyen-cube-fait-F->D](images/cubes/moyen-cube-fait-F->D.png)  
 La face de devant passe à la place de la face du bas. On le note F→D.
@@ -206,9 +181,9 @@ La face de gauche passe à la place de la face du haut. On le note L→U.
 Maintenant que vous pouvez lire tous les algorithmes de la méthode, il ne reste plus qu'à les apprendre !  
 Si vous avez du mal je vous conseil de regarder mes astuces de mémorisation mais vous n'en avez pas besoin pour comprendre comment utiliser la méthode.
 
-![petit-cube-fait](images/cubes/petit-cube-fait.png)
-
-![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png)
+||||
+|:-|:-:|-:|
+| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Bonne chance !| ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
 
 ---
 
@@ -221,19 +196,15 @@ Si vous avez du mal je vous conseil de regarder mes astuces de mémorisation mai
 Pour commencer il faut expliquer ce que j'appelle un mouvement de base. Lorsqu'on regarde des algorithmes, on peut les regrouper en plusieurs suites de mouvements très similaires du type M1 M2 M1' M2' qui permet de faire l'action de l'algorithme, combiné avec des suites de transition comme M1 M2 ou M1 M2 M1' qui permettent de se placer en position d'action ou de refaire le cube.  
 Dans presque la totalité des cas, M1 et M2 appartiennent à des faces consécutives par exemple R U, D F, L B... Il est donc très rare d'avoir L R, U D ou F B.
 
-![petit-cube-fait](images/cubes/petit-cube-fait.png)
-
-Si vous êtes perdu pas d'inquiétude, les exemples reviennent encore !
-
-![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png)
+||||
+|:-|:-:|-:|
+| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Si vous êtes perdu pas d'inquiétude, <br/> les exemples reviennent encore ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
 
 ---
 
-![petit-crane](images/petit-crane.png)
-
-[Rappel : Méthode Fridrich : astuces et conseils pour l'apprentissage]
-
-![petit-cube-engrenages](images/petit-cube-engrenages.png)
+||||
+|-|-|-|
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : astuces et conseils pour l'apprentissage** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
 
 Pour vous montrer le fonctionnement de cette technique nous allons utiliser l'algorithme suivant :
 
@@ -248,17 +219,15 @@ Cet exemple était assez complexe donc pour illustrer de façon plus simple la l
 
 Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ainsi que la suite d'action au centre. De plus les transitions sont parfaitement symétriques en étant sous la forme M1 / M1' et M1 M2 / M2' M1'.
 
-![petit-cube-fait](images/cubes/petit-cube-fait.png)
-
-Vous pouvez maintenant passer à l'apprentissage des algorithmes. Bonne chance !
-
-![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png)
+||||
+|:-|:-:|-:|
+| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Vous pouvez maintenant passer à <br/> l'apprentissage des algorithmes. <br/> Bonne chance ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
 
 ---
 
 ![grand-crane](images/grand-crane.png)
 
-## Méthode Fridrich : les 42 F2L (First Two Layers)
+## Méthode Fridrich : les 41 F2L (First Two Layers)
 
 ### Cubes en position, mal orientés :
 
@@ -276,9 +245,9 @@ Vous pouvez maintenant passer à l'apprentissage des algorithmes. Bonne chance !
 
 ---
 
-![petit-crane](images/petit-crane.png)
-
-[Rappel : Méthode Fridrich : les 42 F2L (First Two Layers)]
+|||
+|-|-|
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : les 41 F2L (First Two Layers)** |
 
 ### Coin en position, pas l'arête
 
@@ -298,9 +267,9 @@ Vous pouvez maintenant passer à l'apprentissage des algorithmes. Bonne chance !
 
 ---
 
-![petit-crane](images/petit-crane.png)
-
-[Rappel : Méthode Fridrich : les 42 F2L (First Two Layers)]
+|||
+|-|-|
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : les 41 F2L (First Two Layers)** |
 
 13. ![F2L-13-bas](images/F2L/F2L-13.png) U L' U L U2 L' U L
 
@@ -320,9 +289,9 @@ Vous pouvez maintenant passer à l'apprentissage des algorithmes. Bonne chance !
 
 ---
 
-![petit-crane](images/petit-crane.png)
-
-[Rappel : Méthode Fridrich : les 42 F2L (First Two Layers)]
+|||
+|-|-|
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : les 41 F2L (First Two Layers)** |
 
 20. ![F2L-20-bas](images/F2L/F2L-20.png) U' R U' R' U R U R'
 
@@ -342,9 +311,9 @@ Vous pouvez maintenant passer à l'apprentissage des algorithmes. Bonne chance !
 
 ---
 
-![petit-crane](images/petit-crane.png)
-
-[Rappel : Méthode Fridrich : les 42 F2L (First Two Layers)]
+|||
+|-|-|
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : les 41 F2L (First Two Layers)** |
 
 28. ![F2L-28-bas](images/F2L/F2L-28.png) U L' U2 L U' F U F'
 
@@ -364,9 +333,9 @@ Vous pouvez maintenant passer à l'apprentissage des algorithmes. Bonne chance !
 
 ---
 
-![petit-crane](images/petit-crane.png)
-
-[Rappel : Méthode Fridrich : les 42 F2L (First Two Layers)]
+|||
+|-|-|
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : les 41 F2L (First Two Layers)** |
 
 35. ![F2L-35-bas](images/F2L/F2L-35.png) R U R'
 
@@ -382,11 +351,9 @@ Vous pouvez maintenant passer à l'apprentissage des algorithmes. Bonne chance !
 
 41. ![F2L-41-bas](images/F2L/F2L-41.png) L' U' L
 
-![petit-cube-fait](images/cubes/petit-cube-fait.png)
-
-Vous pouvez maintenant passer à l'apprentissage. Bonne chance !
-
-![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png)
+||||
+|:-|:-:|-:|
+| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Vous pouvez maintenant passer à <br/> l'apprentissage des algorithmes. <br/> Bonne chance ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
 
 ---
 
@@ -421,11 +388,9 @@ Vous pouvez maintenant passer à l'apprentissage. Bonne chance !
 
 ---
 
-![petit-crane](images/petit-crane.png)
-
-[Rappel : Méthode Fridrich : les 57 OLL (Orientation Last Layer)]
-
-![petit-cube-engrenages](images/petit-cube-engrenages.png)
+||||
+|-|-|-|
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : les 57 OLL (Orientation Last Layer)** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
 
 ### Les éclairs
 
@@ -455,11 +420,9 @@ Vous pouvez maintenant passer à l'apprentissage. Bonne chance !
 
 ---
 
-![petit-crane](images/petit-crane.png)
-
-[Rappel : Méthode Fridrich : les 57 OLL (Orientation Last Layer)]
-
-![petit-cube-engrenages](images/petit-cube-engrenages.png)
+||||
+|-|-|-|
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : les 57 OLL (Orientation Last Layer)** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
 
 25. ![OLL-25](images/OLL/OLL-25.png) R U2 R' U' R U' R2 R→F L' U' L U F
 26. ![OLL-26](images/OLL/OLL-26.png) L' U2 L U L' U L2 L→F R U R' U' F'
@@ -489,11 +452,9 @@ Vous pouvez maintenant passer à l'apprentissage. Bonne chance !
 
 ---
 
-![petit-crane](images/petit-crane.png)
-
-[Rappel : Méthode Fridrich : les 57 OLL (Orientation Last Layer)]
-
-![petit-cube-engrenages](images/petit-cube-engrenages.png)
+||||
+|-|-|-|
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : les 57 OLL (Orientation Last Layer)** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
 
 ### Tous les coins bien orientés
 
@@ -521,11 +482,9 @@ R U2 R' U' R U R' U' R U R' U' R U' R'
 
 ---
 
-![petit-crane](images/petit-crane.png)
-
-[Rappel : Méthode Fridrich : les 57 OLL (Orientation Last Layer)]
-
-![petit-cube-engrenages](images/petit-cube-engrenages.png)
+||||
+|-|-|-|
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : les 57 OLL (Orientation Last Layer)** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
 
 55. ![OLL-55](images/OLL/OLL-55.png) R U2 R' U' R U' R'
 56. ![OLL-56](images/OLL/OLL-56.png) R U R' U R U' R' U R U2 R'
@@ -536,11 +495,9 @@ Dans tous les cas, il faut commencer par faire une croix à l'aide des algorithm
 Dans les cas les plus complexes, de 44 à 50, il suffit de faire les algorithmes 21 + U + 9 et vous êtes dans l'un des cas 51 à 57. Pour les autres cas il suffit d'utiliser soit l'algorithme 9 soit le 21 pour être dans les cas 51 à 57.  
 Vous pouvez donc commencer par apprendre ces 9 algorithmes avant d'apprendre les autres.
 
-![petit-cube-fait](images/cubes/petit-cube-fait.png)
-
-Vous pouvez maintenant passer à l'apprentissage. Bonne chance !
-
-![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png)
+||||
+|:-|:-:|-:|
+| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Vous pouvez maintenant passer à <br/> l'apprentissage. Bonne chance ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
 
 ---
 
@@ -582,9 +539,9 @@ autre algo à ajouter
 
 ---
 
-![petit-crane](images/petit-crane.png)
-
-[Rappel : Méthode Fridrich : les 21 PLL (Permutation Last Layer)]
+|||
+|-|-|
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : les 21 PLL (Permutation Last Layer)** |
 
 15. ![PLL-15](images/PLL/PLL-15.png) U R2 U2 F2 U' R2 U2 R2 F2 U' F2 U2 F2 R2
 
@@ -604,8 +561,6 @@ Vous êtes donc à la dernière étape de la méthode Fridrich, tout comme les O
 Dans tous les cas, il faut commencer par placer les arêtes en bonne position à l'aide des algorithmes 1, 2 et 8 puis placer les coins avec les algorithmes 4, 5, 6 et 7.  
 Pour commencer on ne s'occupe pas des coins et il ne faut pas hésiter à tourner la face du haut. S'il y a deux arêtes opposés alors il faut faire l'algorithme 8. Si ce n'est pas le cas, alors il faut tourner la face jusqu'à n'avoir qu'une arête bien placée puis faire soit l'algorithme 1 soit le 2 selon le cas. Cela permet de se mettre dans l'un des cas 4, 5, 6 ou 7. Il ne reste plus qu'à faire l'algorithme et le cube est résolu.
 
-![petit-cube-fait](images/cubes/petit-cube-fait.png)
-
-Vous pouvez maintenant passer à l'apprentissage. Bonne chance !
-
-![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png)
+||||
+|:-|:-:|-:|
+| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Vous pouvez maintenant passer à <br/> l'apprentissage. Bonne chance ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
