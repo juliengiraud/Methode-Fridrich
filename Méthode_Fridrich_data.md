@@ -1,4 +1,4 @@
-# Méthode Fridrich : accessible à tous
+# Méthode Fridrich : Accessible à tous
 
 ![grand-crane](images/grand-crane.png)
 
@@ -6,7 +6,7 @@
 
 ---
 
-## Méthode Fridrich : sommaire
+## Méthode Fridrich : Sommaire
 
 ![grand-crane](images/grand-crane.png)
 
@@ -25,7 +25,7 @@
 
 ---
 
-## Méthode Fridrich : qu'est-ce la méthode CFOP ?
+## Méthode Fridrich : Qu'est-ce la méthode CFOP ?
 
 ![grand-crane](images/grand-crane.png)
 
@@ -44,7 +44,7 @@ Le but est de résoudre le Rubik's Cube en 4 étapes, soit la croix et 6 algorit
 
 ||||
 |-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : Qu'est-ce que la méthode CFOP ?** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/>Qu'est-ce que la méthode CFOP ?** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
 
 ### Étape 2
 
@@ -88,7 +88,7 @@ Pour lire ce langage il faut connaître les choses suivantes :
 
 ||||
 |-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : Le langage universel** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/>Le langage universel** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
 
 |______________________||
 |-|-|
@@ -107,7 +107,7 @@ Pour lire ce langage il faut connaître les choses suivantes :
 
 ||||
 |-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : Le langage universel** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/>Le langage universel** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
 
 |||||
 |:-:|:-:|:-:|:-:|
@@ -124,7 +124,7 @@ Pour lire ce langage il faut connaître les choses suivantes :
 
 ||||
 |-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : Le langage universel** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/>~~Le langage universel~~ <br/> Exception au langage** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
 
 ||||
 |:-:|:-:|:-:|
@@ -133,10 +133,10 @@ Pour lire ce langage il faut connaître les choses suivantes :
 | ![M'](images/mouvements/M'.png) | ![M2](images/mouvements/M2.png) |
 | M' | M2 |
 
-Je tiens à préciser que dans le réel langage universel, M et M' sont inversés et il y a d'autres mouvements qui ne sont pas utilisés dans les algorithmes de la méthode.
+Dans le langage universel complet il y a d'autres mouvements qui ne sont pas utilisés dans ce livret, aussi il y a les changements de points de vue que je note différemment.
 
-Il y a également les changements de points de vue à connaître pour lire les algorithmes, je les représente par une flèche indiquant la face de référence avant et après avoir changé de point de vue.  
-Pour généraliser, FaceA → FaceB siginfie que l'on doit déplacer le cube (sans faire de mouvement) de façon à ce que la face "B" soit positionnée à la place de la face "A" qui est placée face à nous.
+Les changements de points de vue sont représentés par une flèche indiquant la face de référence avant et après avoir changé de point de vue.  
+Pour généraliser, FaceA → FaceB signifie que l'on doit déplacer le cube **sans faire de mouvement** de façon à ce que la face "B" soit positionnée à la place de la face "A".
 
 ||||
 |:-|:-:|-:|
@@ -146,10 +146,9 @@ Pour généraliser, FaceA → FaceB siginfie que l'on doit déplacer le cube (sa
 
 ||||
 |-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : Le langage universel** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) | ![moyen-cube-fait](images/cubes/moyen-cube-fait.png) |
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/>~~Le langage universel~~ <br/> Exception au langage** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) | ![moyen-cube-fait](images/cubes/moyen-cube-fait.png) |
 
-On prend une fois de plus la face bleue comme référence.  
-Voici donc tous les cas utilisés dans les algorithmes que je vous présente :
+On prend une fois de plus la face bleue comme face de référence. Voici donc tous les cas utilisés dans ce livret :
 
 ![moyen-cube-fait](images/cubes/moyen-cube-fait.png) → ![moyen-cube-fait-R->F](images/cubes/moyen-cube-fait-R->F.png)  
 La face de droite passe à la place de la face de devant. On le note R→F.
@@ -167,7 +166,7 @@ La face du bas passe à la place de la face de devant. On le note D→F.
 
 ||||
 |-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : Le langage universel** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/>Le langage universel** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
 
 ![moyen-cube-fait](images/cubes/moyen-cube-fait.png) → ![moyen-cube-fait-F->D](images/cubes/moyen-cube-fait-F->D.png)  
 La face de devant passe à la place de la face du bas. On le note F→D.
@@ -189,7 +188,7 @@ Si vous avez du mal je vous conseil de regarder mes astuces de mémorisation mai
 
 ![grand-crane](images/grand-crane.png)
 
-## Méthode Fridrich : astuces et conseils pour l'apprentissage
+## Méthode Fridrich : Astuces et conseils pour l'apprentissage
 
 > L'apprentissage des algorithmes demande beaucoup de temps et une pratique régulière afin de ne pas les oublier. Il n'existe pas de technique miracle pour apprendre les formules, si vous avez déjà votre méthode d'apprentissage mes conseils ne devraient pas beaucoup vous aider. Je ne suis pas expert en méthodes d'apprentissage mais je peux vous expliquer celle que j'ai trouvé. L'idée est de repérer les mouvements de base afin de décomposer les algorithmes "complexes" (plus de 4 mouvements) en une suite de quelques mouvements de base (de 2 à 4 mouvements).
 
@@ -204,7 +203,7 @@ Dans presque la totalité des cas, M1 et M2 appartiennent à des faces consécut
 
 ||||
 |-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : astuces et conseils pour l'apprentissage** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/>astuces et conseils pour l'apprentissage** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
 
 Pour vous montrer le fonctionnement de cette technique nous allons utiliser l'algorithme suivant :
 
@@ -227,7 +226,7 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 
 ![grand-crane](images/grand-crane.png)
 
-## Méthode Fridrich : les 41 F2L (First Two Layers)
+## Méthode Fridrich : Les 41 F2L (First Two Layers)
 
 ### Cubes en position, mal orientés :
 
@@ -247,7 +246,7 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 
 |||
 |-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : les 41 F2L (First Two Layers)** |
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/>les 41 F2L (First Two Layers)** |
 
 ### Coin en position, pas l'arête
 
@@ -269,7 +268,7 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 
 |||
 |-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : les 41 F2L (First Two Layers)** |
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/>les 41 F2L (First Two Layers)** |
 
 13. ![F2L-13-bas](images/F2L/F2L-13.png) U L' U L U2 L' U L
 
@@ -291,7 +290,7 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 
 |||
 |-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : les 41 F2L (First Two Layers)** |
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/>les 41 F2L (First Two Layers)** |
 
 20. ![F2L-20-bas](images/F2L/F2L-20.png) U' R U' R' U R U R'
 
@@ -313,7 +312,7 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 
 |||
 |-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : les 41 F2L (First Two Layers)** |
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/>les 41 F2L (First Two Layers)** |
 
 28. ![F2L-28-bas](images/F2L/F2L-28.png) U L' U2 L U' F U F'
 
@@ -335,7 +334,7 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 
 |||
 |-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : les 41 F2L (First Two Layers)** |
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/>les 41 F2L (First Two Layers)** |
 
 35. ![F2L-35-bas](images/F2L/F2L-35.png) R U R'
 
@@ -359,7 +358,7 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 
 ![grand-crane](images/grand-crane.png)
 
-## Méthode Fridrich : les 57 OLL (Orientation Last Layer)
+## Méthode Fridrich : Les 57 OLL (Orientation Last Layer)
 
 ### Les carrés
 
@@ -390,7 +389,7 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 
 ||||
 |-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : les 57 OLL (Orientation Last Layer)** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/>les 57 OLL (Orientation Last Layer)** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
 
 ### Les éclairs
 
@@ -422,7 +421,7 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 
 ||||
 |-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : les 57 OLL (Orientation Last Layer)** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/>les 57 OLL (Orientation Last Layer)** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
 
 25. ![OLL-25](images/OLL/OLL-25.png) R U2 R' U' R U' R2 R→F L' U' L U F
 26. ![OLL-26](images/OLL/OLL-26.png) L' U2 L U L' U L2 L→F R U R' U' F'
@@ -454,7 +453,7 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 
 ||||
 |-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : les 57 OLL (Orientation Last Layer)** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/>les 57 OLL (Orientation Last Layer)** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
 
 ### Tous les coins bien orientés
 
@@ -484,7 +483,7 @@ R U2 R' U' R U R' U' R U R' U' R U' R'
 
 ||||
 |-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : les 57 OLL (Orientation Last Layer)** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/>les 57 OLL (Orientation Last Layer)** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
 
 55. ![OLL-55](images/OLL/OLL-55.png) R U2 R' U' R U' R'
 56. ![OLL-56](images/OLL/OLL-56.png) R U R' U R U' R' U R U2 R'
@@ -503,7 +502,7 @@ Vous pouvez donc commencer par apprendre ces 9 algorithmes avant d'apprendre les
 
 ![grand-crane](images/grand-crane.png)
 
-## Méthode Fridrich : les 21 PLL (Permutation Last Layer)
+## Méthode Fridrich : Les 21 PLL (Permutation Last Layer)
 
 1. ![PLL-1](images/PLL/PLL-1.png) R' U R' U' R' U' R' U R U R2
 
@@ -541,7 +540,7 @@ autre algo à ajouter
 
 |||
 |-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : les 21 PLL (Permutation Last Layer)** |
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/>les 21 PLL (Permutation Last Layer)** |
 
 15. ![PLL-15](images/PLL/PLL-15.png) U R2 U2 F2 U' R2 U2 R2 F2 U' F2 U2 F2 R2
 
