@@ -395,8 +395,8 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 
 11. ![OLL-11](images/OLL/OLL-11.png) r U R' U R U2 r'
 12. ![OLL-12](images/OLL/OLL-12.png) l' U' L U' L' U2 l
-13. ![OLL-13](images/OLL/OLL-13.png) r R2 U' R U' R' U2 R U' M'
-14. ![OLL-14](images/OLL/OLL-14.png) r' R2 U R' U R U2 R' U M
+13. ![OLL-13](images/OLL/OLL-13.png) r R2 U' R U' R' U2 R U' M
+14. ![OLL-14](images/OLL/OLL-14.png) r' R2 U R' U R U2 R' U M'
 
 ### Les flèches
 
@@ -457,17 +457,17 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 
 ### Tous les coins bien orientés
 
-41. ![OLL-41](images/OLL/OLL-41.png) R U R' U' M U R U' r'
-42. ![OLL-42](images/OLL/OLL-42.png) r U R' U' M' U R U' R'
-43. ![OLL-43](images/OLL/OLL-43.png) M' U R U R' U' M2 U R U' r'
+41. ![OLL-41](images/OLL/OLL-41.png) R U R' U' M' U R U' r'
+42. ![OLL-42](images/OLL/OLL-42.png) r U R' U' M U R U' R'
+43. ![OLL-43](images/OLL/OLL-43.png) M U R U R' U' M2 U R U' r'
 
 ### Aucune arête bien orientée
 
 44. ![OLL-44](images/OLL/OLL-44.png) R U2 R2 F R F' U2 R' F R F'
-45. ![OLL-45](images/OLL/OLL-45.png) M' U R U R' U' r R2 F R F'
+45. ![OLL-45](images/OLL/OLL-45.png) M U R U R' U' r R2 F R F'
 46. ![OLL-46](images/OLL/OLL-46.png) F R U R' U L→F R' U2 R' F R F'
-47. ![OLL-47](images/OLL/OLL-47.png) M' U' r U2 r' U' R U' r R2
-48. ![OLL-48](images/OLL/OLL-48.png) M U r' U2 r U R' U r' R2
+47. ![OLL-47](images/OLL/OLL-47.png) M U' r U2 r' U' R U' r R2
+48. ![OLL-48](images/OLL/OLL-48.png) M' U r' U2 r U R' U r' R2
 49. ![OLL-49](images/OLL/OLL-49.png) R U R' U R' F R F' U2 R' F R F'
 50. ![OLL-50](images/OLL/OLL-50.png) D→F U R' U' l U R2 B' R' B U' R'
 
@@ -491,7 +491,7 @@ R U2 R' U' R U R' U' R U R' U' R U' R'
 
 Si vous n'avez pas le courage de tout apprendre du premier coup vous pouvez faire cette étape en plusieurs fois. En apprenant les algorithmes 9, 21 et de 51 à 57 vous pouvez faire cette étape en un maximum de 3 algorithmes.  
 Dans tous les cas, il faut commencer par faire une croix à l'aide des algorithmes 9 et 21. Pour ça il ne faut s'intéresser qu'aux arêtes puis une fois la croix faite, il faut utiliser les algorithmes 51 à 57 pour finir l'étape.  
-Dans les cas les plus complexes, de 44 à 50, il suffit de faire les algorithmes 21 + U + 9 et vous êtes dans l'un des cas 51 à 57. Pour les autres cas il suffit d'utiliser soit l'algorithme 9 soit le 21 pour être dans les cas 51 à 57.  
+Dans les cas les plus complexes, de 44 à 50, il suffit de faire les algorithmes 21 + U + 9 et vous arrivez dans l'un des cas 51 à 57. Pour les autres cas il suffit d'utiliser soit l'algorithme 9 soit le 21 pour être dans les cas 51 à 57.  
 Vous pouvez donc commencer par apprendre ces 9 algorithmes avant d'apprendre les autres.
 
 ||||
@@ -508,7 +508,7 @@ Vous pouvez donc commencer par apprendre ces 9 algorithmes avant d'apprendre les
 
 2. ![PLL-2](images/PLL/PLL-2.png) R2 U' R' U' R U R U R U' R
 
-3. ![PLL-3](images/PLL/PLL-3.png) U M2 U' M2 U' M U2 M2 U2 M U
+3. ![PLL-3](images/PLL/PLL-3.png) U M2 U' M2 U' M' U2 M2 U2 M' U
 
 4. ![PLL-4](images/PLL/PLL-4.png) M2 U M2 U2 M2 U M2
 
