@@ -4,19 +4,25 @@
 
 ![grand-cube-engrenages](images/grand-cube-engrenages.png)
 
+Réalisé par **Julien Giraud**
+
+[Chaîne YouTube](https://www.youtube.com/julien-craf)
+
+[Site internet](https://www.julien-giraud.fr)
+
 ---
 
 ## Méthode Fridrich : Sommaire
 
 ![grand-crane](images/grand-crane.png)
 
-- Introduction à la méthode
+- **Introduction à la méthode**
 
   - Présentation de la méthode
   - Présentation du **langage universel**
   - Astuces et conseils d'apprentissage
 
-- Méthode complète
+- **Méthode complète**
 
   - La **croix** parfaite
   - Les **41** F2L (First Two Layers)
@@ -30,37 +36,34 @@
 ![grand-crane](images/grand-crane.png)
 
 > La méthode créée par **Jessica Fridrich** autrement appelée la méthode CFOP (Cross F2L OLL PLL) est une technique de résolution du Rubik's Cube 3x3x3 très rapide et utilisée par la plupart des champions de speedcubing.
+>
 > Cette méthode ne nécessite pas la moindre "grande intelligence", les seules qualités requises sont le **temps** ainsi que la **patience**. Il n’est pas nécessaire d’avoir une bonne mémoire tant que vous **pratiquez** régulièrement !
 
-Le but est de résoudre le Rubik's Cube en 4 étapes : la croix, les F2L en 4 fois, les OLL et les PLL. En résumé, chaque résolution nécessitera au maximum 6 algorithmes.
+Le but est de résoudre le Rubik's Cube en **4 étapes** : la **croix**, les **F2L** en 4 fois, les **OLL** et les **PLL**. En résumé, chaque résolution nécessitera au maximum 6 algorithmes.
 
 ### Étape 1
 
-| _____________________________ ||
+|test||
 |-|-|
 | ![croix](images/cubes/croix.png) | La **croix** (Cross) est résolue logiquement avec une moyenne de 8 mouvements en 2 ou 3 secondes. Pour arriver à la résoudre aussi rapidement il est nécessaire de bien connaître les couleurs de son cube et de beaucoup s'entraîner afin de préparer les mouvements à l'avance. Il n'y a pas vraiment d'algorithme à apprendre pour cette étape. |
-
-||||
-|-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/> Qu'est-ce que la méthode CFOP ?** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
 
 ### Étape 2
 
 | ____________________________ ||
 |-|-|
-| ![F2L](images/cubes/F2L.png) | Les **F2L** (First Two Layers) sont l'étape la plus longue consistant à **résoudre** les *deux premiers étages*. Le but est de regrouper un coin et une arête complémentaires appartenant à la face de référence (dont la couleur est celle de la croix) puis de les placer en même temps. <br/> Cette étape regroupe 41 algorithmes mais elle peut se faire logiquement pour certains. Il est cependant préférable d'apprendre les algorithmes de la méthode pour aller plus vite. |
+| ![F2L](images/cubes/F2L.png) | Les **F2L** (First Two Layers) sont l'étape la plus longue consistant à **résoudre** les *deux premiers étages*. Le but est de regrouper un coin et une arête complémentaires appartenant à la face de référence (dont la couleur est celle de la croix) puis de les placer en même temps. <br> Cette étape regroupe 41 algorithmes mais elle peut se faire logiquement pour certains. Il est cependant préférable d'apprendre les algorithmes de la méthode pour aller plus vite. |
 
 ### Étape 3
 
 | ____________________________ ||
 |-|-|
-| ![OLL](images/cubes/OLL.png) | Les **OLL** (Orientation Last Layer) sont l'étape consistant à **orienter** tous les cubes de la couleur de la dernière face sur celle-ci (la face opposée à la première face) afin qu'elle soit unicolore et qu'il ne reste plus que la troisième couronne à compléter. Cette étape regroupe 57 algorithmes. |
+| ![OLL](images/cubes/OLL.png) | Les **OLL** (Orientation Last Layer) sont l'étape consistant à **orienter** tous les cubes de la couleur de la dernière face sur celle-ci (la face opposée à la première face) afin qu'elle soit unicolore et qu'il ne reste plus que la troisième couronne à compléter. <br> Cette étape regroupe 57 algorithmes. |
 
 ### Étape 4
 
 | ______________________________ ||
 |-|-|
-| ![grand-cube-fait](images/cubes/grand-cube-fait.png) | Les **PLL** (Permutation Last Layer) sont l'étape où l'on va **permuter** les coins et les arêtes de la troisième couronne afin de refaire le cube. Cette étape regroupe 21 algorithmes. |
+| ![grand-cube-fait](images/cubes/grand-cube-fait.png) | Les **PLL** (Permutation Last Layer) sont l'étape où l'on va **permuter** les coins et les arêtes de la troisième couronne afin de refaire le cube. <br> Cette étape regroupe 21 algorithmes. |
 
 ---
 
@@ -74,13 +77,13 @@ Pour lire ce langage il faut connaître les choses suivantes :
 
 - Une **lettre** correspond à une face (Front - Up - Right - Left - Down - Back), plus le M pour la tranche du Milieu
 
-- Une **majuscule** signifie qu'il faut tourner la face dans le sens des aiguilles d'une montre. Une **apostrophe** correspond au mouvement inverse donc dans le sens inverse des aiguilles d'une montre et le chiffre **2** veut dire qu'il faut tourner deux fois la face (donc le sens n'a aucune importance)
+- Une **majuscule** signifie qu'il faut tourner la face dans le sens des aiguilles d'une montre. Une **apostrophe** correspond au mouvement inverse donc dans le sens inverse des aiguilles d'une montre et le chiffre **2** veut dire qu'il faut tourner deux fois la face (donc le sens n'a *aucune importance*)
 
 - Une minuscule signifie qu'il faut tourner la face et la tranche du milieu dans le même sens
 
 ||||
 |:-|:-:|-:|
-| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Si vous êtes perdu pas d'inquiétude, <br/> les exemples seront plus clairs ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
+| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Si vous êtes perdu pas d'inquiétude, <br> les exemples seront plus clairs ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
 
 |______________________||
 |-|-|
@@ -107,38 +110,31 @@ Pour lire ce langage il faut connaître les choses suivantes :
 | ![M2](images/mouvements/M2.png) |
 | M2 |
 
-Dans le langage universel complet il y a d'autres mouvements qui ne sont pas utilisés dans ce livret, aussi il y a les *changements de points de vue* que je note __différemment__.
+Dans le langage universel complet il y a d'autres mouvements qui ne sont pas utilisés dans ce livret, aussi il y a les *changements de points de vue* que je note *différemment*.
 
 Les changements de points de vue sont représentés par une flèche indiquant la face de référence avant et après avoir changé de point de vue.  
 Pour généraliser, FaceA → FaceB signifie que l'on doit déplacer le cube **sans faire de mouvement** de façon à ce que la face "B" soit positionnée à la place de la face "A".
 
 ||||
 |:-|:-:|-:|
-| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Si vous êtes perdu pas d'inquiétude, <br/> les exemples reviennent ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
+| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Si vous êtes perdu pas d'inquiétude, <br> les exemples reviennent ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
 
 ||||
 |-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/> ~~Le langage universel~~ <br/> Exception au langage** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) | ![moyen-cube-fait](images/cubes/moyen-cube-fait.png) |
+| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br> ~~Le langage universel~~ <br> Exception au langage** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) | !
 
-On prend une fois de plus la face bleue comme face de référence. Voici donc tous les cas utilisés dans ce livret :
+|______________________||
+|-|-|
+| ![moyen-cube-fait](images/cubes/moyen-cube-fait.png) | On prend une fois de plus la face bleue comme face de référence. Voici donc tous les cas utilisés dans ce livret : |
 
-![moyen-cube-fait](images/cubes/moyen-cube-fait.png) → ![moyen-cube-fait-R->F](images/cubes/moyen-cube-fait-R->F.png)  
-La face de droite passe à la place de la face de devant. On le note R→F.
-
-![moyen-cube-fait](images/cubes/moyen-cube-fait.png) → ![moyen-cube-fait-L->F](images/cubes/moyen-cube-fait-L->F.png)  
-La face de gauche passe à la place de la face de devant. On le note L→F.
-
-![moyen-cube-fait](images/cubes/moyen-cube-fait.png) → ![moyen-cube-fait-U->F](images/cubes/moyen-cube-fait-U->F.png)  
-La face du haut passe à la place de la face de devant. On le note U→F.
-
-![moyen-cube-fait](images/cubes/moyen-cube-fait.png) → ![moyen-cube-fait-D->F](images/cubes/moyen-cube-fait-D->F.png)  
-La face du bas passe à la place de la face de devant. On le note D→F.
-
-![moyen-cube-fait](images/cubes/moyen-cube-fait.png) → ![moyen-cube-fait-R->U](images/cubes/moyen-cube-fait-R->U.png)  
-La face de droite passe à la place de la face du haut. On le note R→U.
-
-![moyen-cube-fait](images/cubes/moyen-cube-fait.png) → ![moyen-cube-fait-L->U](images/cubes/moyen-cube-fait-L->U.png)  
-La face de gauche passe à la place de la face du haut. On le note L→U.
+|______________________||______________________||
+|-|-|-|-|
+| ![moyen-cube-fait](images/cubes/moyen-cube-fait.png) | → | ![moyen-cube-fait-R->F](images/cubes/moyen-cube-fait-R->F.png) | La face de droite passe à la place de la face de devant. On le note R→F. |
+| ![moyen-cube-fait](images/cubes/moyen-cube-fait.png) | → | ![moyen-cube-fait-L->F](images/cubes/moyen-cube-fait-L->F.png) | La face de gauche passe à la place de la face de devant. On le note L→F. |
+| ![moyen-cube-fait](images/cubes/moyen-cube-fait.png) | → | ![moyen-cube-fait-U->F](images/cubes/moyen-cube-fait-U->F.png) | La face du haut passe à la place de la face de devant. On le note U→F. |
+| ![moyen-cube-fait](images/cubes/moyen-cube-fait.png) | → | ![moyen-cube-fait-D->F](images/cubes/moyen-cube-fait-D->F.png) | La face du bas passe à la place de la face de devant. On le note D→F. |
+| ![moyen-cube-fait](images/cubes/moyen-cube-fait.png) | → | ![moyen-cube-fait-R->U](images/cubes/moyen-cube-fait-R->U.png) | La face de droite passe à la place de la face du haut. On le note R→U. |
+| ![moyen-cube-fait](images/cubes/moyen-cube-fait.png) | → | ![moyen-cube-fait-L->U](images/cubes/moyen-cube-fait-L->U.png) | La face de gauche passe à la place de la face du haut. On le note L→U. |
 
 Maintenant que vous pouvez lire tous les algorithmes de la méthode, il ne reste plus qu'à les apprendre !
 
@@ -154,31 +150,31 @@ Si vous avez du mal je vous conseil de regarder mes astuces de mémorisation mai
 
 ## Méthode Fridrich : Astuces et conseils d'apprentissage
 
-> L'apprentissage des algorithmes demande beaucoup de temps et une pratique régulière afin de ne pas les oublier. Il n'existe pas de technique miracle pour apprendre les formules, si vous avez déjà votre méthode d'apprentissage mes conseils ne devraient pas beaucoup vous aider. Je ne suis pas expert en méthodes d'apprentissage mais je peux vous expliquer celle que j'ai trouvé. L'idée est de repérer les mouvements de base afin de décomposer les algorithmes "complexes" (plus de 4 mouvements) en une suite de quelques mouvements de base (de 2 à 4 mouvements).
+> L'apprentissage des algorithmes demande beaucoup de temps et une pratique **régulière** afin de ne pas les oublier. Il n'existe pas de technique miracle pour apprendre les formules, si vous avez déjà votre méthode d'apprentissage mes conseils ne devraient pas beaucoup vous aider. Je ne suis pas expert en méthodes d'apprentissage mais je peux vous expliquer celle que j'ai trouvé. L'idée est de repérer les mouvements de base afin de décomposer les algorithmes "complexes" (plus de 4 mouvements) en une suite de quelques mouvements de base (de 2 à 4 mouvements).
 
-Pour commencer il faut expliquer ce que j'appelle un mouvement de base. Lorsqu'on regarde des algorithmes, on peut les regrouper en plusieurs suites de mouvements très similaires du type M1 M2 M1' M2' qui permet de faire l'action de l'algorithme, combiné avec des suites de transition comme M1 M2 ou M1 M2 M1' qui permettent de se placer en position d'action.  
+Pour commencer il faut expliquer ce que j'appelle un mouvement de base. Lorsqu'on regarde des algorithmes, on peut les regrouper en plusieurs suites de mouvements très similaires du type <span style="color:blue">M1 M2 M1' M2'</span> qui permet de faire l'<span style="color:blue">action</span> de l'algorithme, combiné avec des suites de <span style="color:green">transition</span> comme <span style="color:green">M1 M2</span> ou <span style="color:green">M1 M2 M1'</span> qui permettent de se placer en position d'<span style="color:blue">action</span>.  
 Dans presque la totalité des cas, M1 et M2 appartiennent à des faces consécutives par exemple R U, D F, L B... Il est donc très rare d'avoir L R, U D ou F B.
 
 ||||
 |:-|:-:|-:|
-| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Si vous êtes perdu pas d'inquiétude, <br/> les exemples reviennent encore ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
+| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Si vous êtes perdu pas d'inquiétude, <br> les exemples reviennent encore ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
 
 Pour vous montrer le fonctionnement de cette technique nous allons utiliser l'algorithme suivant :
 
-**R U R' U'** / *R' F* / *R2 U'* / **R' U' R U** / *R' F'*
+<span style="color:blue">R U R' U'</span> / <span style="color:green">R' F</span> / <span style="color:green">R2 U'</span> / <span style="color:blue">R' U' R U</span> / <span style="color:green">R' F'</span>
 
 Ici le vert (gras) représente les suites de transition et le bleu les suites d'action. Il peut y avoir plusieurs façon de découper l'algorithme, je trouve que celle-ci représente bien son fonctionnement.  
-**R U R' U'** est l'une des suites des plus utilisées et on peut voir les formes de transition M1 M2 / M1 M2' avec *R' F* / *R' F'* qui est facilement mémorisable. Une fois qu'on a mémorisé les emplacements des suites d'action, très répétitives, et l'emplacement avec la logique des transitions, on peut facilement se souvenir d'un algorithme.
+<span style="color:blue">R U R' U'</span> est l'une des suites des plus utilisées et on peut voir les formes de transition <span style="color:green">M1 M2</span> / <span style="color:green">M1 M2'</span> avec <span style="color:green">R' F</span> / <span style="color:green">R' F'</span> qui est facilement mémorisable. Une fois qu'on a mémorisé les emplacements des suites d'action, très répétitives, et l'emplacement avec la logique des transitions, on peut facilement se souvenir d'un algorithme.
 
 Cet exemple était assez complexe donc pour illustrer de façon plus simple la logique :
 
-*F* / **R U R' U'** / *F'* - ou encore - *R U* / **U R' U' R** / *U' R'*
+<span style="color:green">F</span> / <span style="color:blue">R U R' U'</span> / <span style="color:green">F'</span> - ou encore - <span style="color:green">R U</span> / <span style="color:blue">U R' U' R</span> / <span style="color:green">U' R'</span>
 
-Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ainsi que la suite d'action au centre. De plus les transitions sont parfaitement symétriques en étant sous la forme M1 / M1' et M1 M2 / M2' M1'.
+Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ainsi que la suite d'action au centre. De plus les transitions sont parfaitement symétriques en étant sous la forme <span style="color:green">M1</span> / <span style="color:green">M1'</span> et <span style="color:green">M1 M2</span> / <span style="color:green">M2' M1'</span>.
 
 ||||
 |:-|:-:|-:|
-| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Vous pouvez maintenant passer à l'apprentissage <br/> des algorithmes. Bonne chance ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
+| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Vous pouvez maintenant passer à l'apprentissage <br> des algorithmes. Bonne chance ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
 
 ---
 
@@ -280,7 +276,7 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 
 ||||
 |:-|:-:|-:|
-| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Cette étape prend beaucoup de <br/> temps. Vous devez persévérer ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
+| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Cette étape prend beaucoup de <br> temps. Vous devez persévérer ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
 
 ---
 
@@ -382,8 +378,11 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 
 ### Toutes les arêtes bien orientées
 
-51. ![OLL-51](images/OLL/OLL-51.png) U2 R U2 R D R' U2 R D' R2  
-R U2 R' U' R U R' U' R U R' U' R U' R'
+51. ![OLL-51](images/OLL/OLL-51.png)
+
+- U2 R U2 R D R' U2 R D' R2  
+- R U2 R' U' R U R' U' R U R' U' R U' R'
+
 52. ![OLL-52](images/OLL/OLL-52.png) l' U' L U R U' L' U
 53. ![OLL-53](images/OLL/OLL-53.png) R2 D R' U2 R D' R' U2 R'
 54. ![OLL-54](images/OLL/OLL-54.png) L' U2 L U L' U L
@@ -391,14 +390,14 @@ R U2 R' U' R U R' U' R U R' U' R U' R'
 56. ![OLL-56](images/OLL/OLL-56.png) R U R' U R U' R' U R U2 R'
 57. ![OLL-57](images/OLL/OLL-57.png) R U2 R2 U' R2 U' R2 U2 R
 
-Si vous n'avez pas le courage de tout apprendre du premier coup vous pouvez faire cette étape en plusieurs fois. En apprenant les algorithmes 9, 21 et de 51 à 57 vous pouvez réaliser les OLL en 3 étapes maximum.  
-Dans tous les cas, il faut commencer par faire une croix à l'aide des algorithmes 9 et 21. Pour ça il ne faut s'intéresser qu'aux arêtes puis une fois la croix faite, il faut utiliser les algorithmes 51 à 57 pour finir l'étape.  
-Dans les cas les plus complexes, de 44 à 50, il suffit de faire les algorithmes 21 + U + 9 et vous arrivez dans l'un des cas 51 à 57. Pour les autres cas il suffit d'utiliser soit l'algorithme 9 soit le 21 pour être dans les cas 51 à 57.  
+Si vous n'avez pas le courage de tout apprendre du premier coup vous pouvez faire cette étape en **plusieurs fois**. En apprenant les algorithmes **9, 21** et **de 51 à 57** vous pouvez réaliser les OLL en 3 étapes maximum.  
+Dans tous les cas, il faut commencer par faire une <span style="color:blue">croix</span> à l'aide des algorithmes <span style="color:blue">9 et 21</span>. Pour ça il ne faut s'intéresser qu'aux <span style="color:blue">arêtes</span> puis une fois la croix faite, il faut utiliser les algorithmes <span style="color:green">51 à 57</span> pour finir l'étape.  
+Dans les cas les plus complexes, de 44 à 50, il suffit de faire les algorithmes <span style="color:blue">21 + U + 9</span> et vous arrivez dans l'un des cas <span style="color:green">51 à 57</span>. Pour les autres cas il suffit d'utiliser soit l'algorithme <span style="color:blue">9</span> soit le <span style="color:blue">21</span> pour être dans les cas <span style="color:green">51 à 57</span>.  
 Vous pouvez donc commencer par apprendre ces 9 algorithmes avant d'apprendre les autres.
 
 ||||
 |:-|:-:|-:|
-| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Après ça la suite va vous paraître <br/> super simple. Vous allez voir ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
+| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Après ça la suite va vous paraître <br> super simple. Vous allez voir ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
 
 ---
 
@@ -418,9 +417,11 @@ Vous pouvez donc commencer par apprendre ces 9 algorithmes avant d'apprendre les
 
 6. ![PLL-6](images/PLL/PLL-6.png) U→F R2 D2 R' U' R D2 R' U R'
 
-7. ![PLL-7](images/PLL/PLL-7.png) U→F U D R D' L D R' U' D' R U L' U' R'  
-D→F U R' U' L U R U' r2 U' R U L U' R' U  
-l' U' L' U R U' L U R' U' L U R U' L' U
+7. ![PLL-7](images/PLL/PLL-7.png)
+
+- U→F U D R D' L D R' U' D' R U L' U' R'  
+- D→F U R' U' L U R U' r2 U' R U L U' R' U  
+- l' U' L' U R U' L U R' U' L U R U' L' U
 
 8. ![PLL-8](images/PLL/PLL-8.png) R U R' U' R' F R2 U' R' U' R U R' F'
 
@@ -432,8 +433,10 @@ l' U' L' U R U' L U R' U' L U R U' L' U
 
 12. ![PLL-12](images/PLL/PLL-12.png) R U R' F' R U R' U' R' F R2 U' R' U'
 
-13. ![PLL-13](images/PLL/PLL-13.png) R' U2 R U R' d2 R U' L U R'  
-R→F R→F L' U' L F L' U' L U L F' L2 U L U
+13. ![PLL-13](images/PLL/PLL-13.png)
+
+- R' U2 R U R' d2 R U' L U R'  
+- R→F R→F L' U' L F L' U' L U L F' L2 U L U
 
 14. ![PLL-14](images/PLL/PLL-14.png) F R U' R' U' R U R' F' R U R' U' R' F R F'
 
@@ -451,10 +454,10 @@ R→F R→F L' U' L F L' U' L U L F' L2 U L U
 
 21. ![PLL-21](images/PLL/PLL-21.png) R U R' L→F R2 u' R U' R' U R' u R2
 
-Tout comme les OLL vous n'êtes pas obligés de tout apprendre. En apprenant les algorithmes 1, 2 et de 4 à 8 vous pouvez terminer le cube en 2 étapes maximum.  
-Dans tous les cas, il faut commencer par placer les arêtes en bonne position à l'aide des algorithmes 1, 2 et 8 puis placer les coins avec les algorithmes 4 à 7.  
-Pour commencer on ne s'occupe pas des coins et il ne faut pas hésiter à tourner la face du haut. S'il y a deux arêtes opposés alors il faut faire l'algorithme 8. Sinon il faut tourner la face jusqu'à n'avoir qu'une arête bien placée puis faire l'algorithme 1 ou 2 selon le cas. Cela permet de se mettre dans l'un des cas 4 à 7. Il ne reste plus qu'à faire l'algorithme et le cube est résolu.
+Tout comme les OLL vous n'êtes pas obligés de tout apprendre. En apprenant les algorithmes **1, 2** et **de 4 à 8** vous pouvez terminer le cube en 2 étapes maximum.  
+Dans tous les cas, il faut commencer par <span style="color:blue">placer les arêtes</span> en bonne position à l'aide des algorithmes <span style="color:blue">1, 2 et 8</span> puis <span style="color:green">placer les coins</span> avec les algorithmes <span style="color:green">4 à 7</span>.  
+Pour commencer on ne s'occupe pas des coins et il ne faut pas hésiter à <span style="color:blue">tourner la face du haut</span>. S'il y a deux arêtes opposés alors il faut faire l'algorithme 8. Sinon il faut tourner la face jusqu'à n'avoir qu'une arête bien placée puis faire l'algorithme 1 ou 2 selon le cas. Cela permet de se mettre dans l'un des cas <span style="color:green">4 à 7</span>. Il ne reste plus qu'à faire l'algorithme et le cube est résolu.
 
 ||||
 |:-|:-:|-:|
-| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | C’était la dernière étape. <br/> Amusez-vous bien ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
+| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | C’était la dernière étape. <br> Amusez-vous bien ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
