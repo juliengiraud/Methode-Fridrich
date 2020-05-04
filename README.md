@@ -8,7 +8,7 @@ Ce dossier contient un guide complet sur la méthode Fridrich utilisée pour ré
 
 ## Historique des versions
 
-La version **X** du format **Markdown** correspond à la version **X** du format **PDF**.
+La version **X** du format **Markdown** correspond à la version **X** du format **PDF**
 
 ### Version PDF
 

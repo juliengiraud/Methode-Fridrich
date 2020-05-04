@@ -40,8 +40,6 @@ Le but est de résoudre le Rubik's Cube en 4 étapes : la croix, les F2L en 4 f
 |-|-|
 | ![croix](images/cubes/croix.png) | La **croix** (Cross) est résolue logiquement avec une moyenne de 8 mouvements en 2 ou 3 secondes. Pour arriver à la résoudre aussi rapidement il est nécessaire de bien connaître les couleurs de son cube et de beaucoup s'entraîner afin de préparer les mouvements à l'avance. Il n'y a pas vraiment d'algorithme à apprendre pour cette étape. |
 
----
-
 ||||
 |-|-|-|
 | ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/> Qu'est-ce que la méthode CFOP ?** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
@@ -84,12 +82,6 @@ Pour lire ce langage il faut connaître les choses suivantes :
 |:-|:-:|-:|
 | ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Si vous êtes perdu pas d'inquiétude, <br/> les exemples seront plus clairs ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
 
----
-
-||||
-|-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/> Le langage universel** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
-
 |______________________||
 |-|-|
 | ![moyen-cube-fait](images/cubes/moyen-cube-fait.png) | Afin de vous présenter le langage, nous allons mettre la face bleue devant nous avec la face jaune au dessus |
@@ -102,15 +94,6 @@ Pour lire ce langage il faut connaître les choses suivantes :
 | r' | r2 | L | L' |
 | ![L2](images/mouvements/L2.png) | ![l](images/mouvements/l.png) | ![l'](images/mouvements/l'.png) | ![l2](images/mouvements/l2.png) |
 | L2 | l | l' | l2 |
-
----
-
-||||
-|-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/> Le langage universel** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
-
-|||||
-|:-:|:-:|:-:|:-:|
 | ![U](images/mouvements/U.png) | ![U'](images/mouvements/U'.png) | ![U2](images/mouvements/U2.png) | ![u](images/mouvements/u.png) |
 | U | U' | U2 | u |
 | ![u'](images/mouvements/u'.png) | ![u2](images/mouvements/u2.png) | ![D](images/mouvements/D.png) | ![D'](images/mouvements/D'.png) |
@@ -119,19 +102,10 @@ Pour lire ce langage il faut connaître les choses suivantes :
 | D2 | d | d' | d2 |
 | ![F](images/mouvements/F.png) | ![F'](images/mouvements/F'.png) | ![F2](images/mouvements/F2.png) | ![B](images/mouvements/B.png) |
 | F | F' | F2 | B |
-
----
-
-||||
-|-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/> Le langage universel** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
-
-||||
-|:-:|:-:|:-:|
-| ![B'](images/mouvements/B'.png) | ![B2](images/mouvements/B2.png) | ![M](images/mouvements/M.png) |
-| B' | B2 | M |
-| ![M'](images/mouvements/M'.png) | ![M2](images/mouvements/M2.png) |
-| M' | M2 |
+| ![B'](images/mouvements/B'.png) | ![B2](images/mouvements/B2.png) | ![M](images/mouvements/M.png) | ![M'](images/mouvements/M'.png) 
+| B' | B2 | M | M' |
+| ![M2](images/mouvements/M2.png) |
+| M2 |
 
 Dans le langage universel complet il y a d'autres mouvements qui ne sont pas utilisés dans ce livret, aussi il y a les *changements de points de vue* que je note __différemment__.
 
@@ -141,8 +115,6 @@ Pour généraliser, FaceA → FaceB signifie que l'on doit déplacer le cube **s
 ||||
 |:-|:-:|-:|
 | ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Si vous êtes perdu pas d'inquiétude, <br/> les exemples reviennent ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
-
----
 
 ||||
 |-|-|-|
@@ -161,12 +133,6 @@ La face du haut passe à la place de la face de devant. On le note U→F.
 
 ![moyen-cube-fait](images/cubes/moyen-cube-fait.png) → ![moyen-cube-fait-D->F](images/cubes/moyen-cube-fait-D->F.png)  
 La face du bas passe à la place de la face de devant. On le note D→F.
-
----
-
-||||
-|-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/> ~~Le langage universel~~ <br/> Exception au langage** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
 
 ![moyen-cube-fait](images/cubes/moyen-cube-fait.png) → ![moyen-cube-fait-R->U](images/cubes/moyen-cube-fait-R->U.png)  
 La face de droite passe à la place de la face du haut. On le note R→U.
@@ -196,12 +162,6 @@ Dans presque la totalité des cas, M1 et M2 appartiennent à des faces consécut
 ||||
 |:-|:-:|-:|
 | ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Si vous êtes perdu pas d'inquiétude, <br/> les exemples reviennent encore ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
-
----
-
-||||
-|-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/> Astuces et conseils d'apprentissage** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
 
 Pour vous montrer le fonctionnement de cette technique nous allons utiliser l'algorithme suivant :
 
@@ -240,12 +200,6 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 
 6. ![F2L-6-bas](images/F2L/F2L-6.png) U' L' U L d R U' R'
 
----
-
-|||
-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/> Les 41 F2L (First Two Layers)** |
-
 ### Coin en position, pas l'arête
 
 7. ![F2L-7-bas](images/F2L/F2L-7.png) U R U' R' d' L' U L
@@ -261,12 +215,6 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 ### Arête en position, pas le coin
 
 12. ![F2L-12-bas](images/F2L/F2L-12.png) R2 U R2 U R2 U2 R2
-
----
-
-|||
-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/> Les 41 F2L (First Two Layers)** |
 
 13. ![F2L-13-bas](images/F2L/F2L-13.png) U L' U L U2 L' U L
 
@@ -284,12 +232,6 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 
 19. ![F2L-19-bas](images/F2L/F2L-19.png) U R U' R'
 
----
-
-|||
-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/> Les 41 F2L (First Two Layers)** |
-
 20. ![F2L-20-bas](images/F2L/F2L-20.png) U' R U' R' U R U R'
 
 21. ![F2L-21-bas](images/F2L/F2L-21.png) U2 L2 U2 L U L' U L2
@@ -306,12 +248,6 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 
 27. ![F2L-27-bas](images/F2L/F2L-27.png) L' U L U2 F U F'
 
----
-
-|||
-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/> Les 41 F2L (First Two Layers)** |
-
 28. ![F2L-28-bas](images/F2L/F2L-28.png) U L' U2 L U' F U F'
 
 29. ![F2L-29-bas](images/F2L/F2L-29.png) U2 R2 U2 R' U' R U' R2
@@ -327,12 +263,6 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 33. ![F2L-33-bas](images/F2L/F2L-33.png) U2 R U R' U R U' R'
 
 34. ![F2L-34-bas](images/F2L/F2L-34.png) U L' U2 L U2 L' U L
-
----
-
-|||
-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/> Les 41 F2L (First Two Layers)** |
 
 35. ![F2L-35-bas](images/F2L/F2L-35.png) R U R'
 
@@ -383,12 +313,6 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 9. ![OLL-9](images/OLL/OLL-9.png) F R U R' U' F'
 10. ![OLL-10](images/OLL/OLL-10.png) R U R' U' l' U R U'
 
----
-
-||||
-|-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/> Les 57 OLL (Orientation Last Layer)** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
-
 ### Les éclairs
 
 11. ![OLL-11](images/OLL/OLL-11.png) r U R' U R U2 r'
@@ -414,13 +338,6 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 
 23. ![OLL-23](images/OLL/OLL-23.png) B' R B' R2 U R U R' U' l U2
 24. ![OLL-24](images/OLL/OLL-24.png) R2 U R' B' R U' R2 U l U l'
-
----
-
-||||
-|-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/> Les 57 OLL (Orientation Last Layer)** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
-
 25. ![OLL-25](images/OLL/OLL-25.png) R U2 R' U' R U' R2 R→F L' U' L U F
 26. ![OLL-26](images/OLL/OLL-26.png) L' U2 L U L' U L2 L→F R U R' U' F'
 
@@ -447,12 +364,6 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 39. ![OLL-39](images/OLL/OLL-39.png) r U R' U R U' R' U R U2 r'
 40. ![OLL-40](images/OLL/OLL-40.png) l' U' L U' L' U L U' L' U2 l
 
----
-
-||||
-|-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/> Les 57 OLL (Orientation Last Layer)** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
-
 ### Tous les coins bien orientés
 
 41. ![OLL-41](images/OLL/OLL-41.png) R U R' U' M' U R U' r'
@@ -476,13 +387,6 @@ R U2 R' U' R U R' U' R U R' U' R U' R'
 52. ![OLL-52](images/OLL/OLL-52.png) l' U' L U R U' L' U
 53. ![OLL-53](images/OLL/OLL-53.png) R2 D R' U2 R D' R' U2 R'
 54. ![OLL-54](images/OLL/OLL-54.png) L' U2 L U L' U L
-
----
-
-||||
-|-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/> Les 57 OLL (Orientation Last Layer)** | ![petit-cube-engrenages](images/petit-cube-engrenages.png) |
-
 55. ![OLL-55](images/OLL/OLL-55.png) R U2 R' U' R U' R'
 56. ![OLL-56](images/OLL/OLL-56.png) R U R' U R U' R' U R U2 R'
 57. ![OLL-57](images/OLL/OLL-57.png) R U2 R2 U' R2 U' R2 U2 R
@@ -532,12 +436,6 @@ l' U' L' U R U' L U R' U' L U R U' L' U
 R→F R→F L' U' L F L' U' L U L F' L2 U L U
 
 14. ![PLL-14](images/PLL/PLL-14.png) F R U' R' U' R U R' F' R U R' U' R' F R F'
-
----
-
-|||
-|-|-|
-| ![petit-crane](images/petit-crane.png) | **Méthode Fridrich : <br/> Les 21 PLL (Permutation Last Layer)** |
 
 15. ![PLL-15](images/PLL/PLL-15.png) U R2 U2 F2 U' R2 U2 R2 F2 U' F2 U2 F2 R2
 
