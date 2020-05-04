@@ -18,7 +18,7 @@ Version actuelle : **1.2**
 | ----------------- | ------------------- | ----------- |
 | 1.0 | 22/02/2015 | Première version du guide sous forme de 25 images compilés dans un PDF |
 | 1.1 | 30/12/2019 | Correction d'une erreur d'algorithme |
-| 1.2 | 03/04/2020 | Livret refait sous LibreOffice Draw : texte modifiable, images modifiables unes à unes, correction d'erreurs, amélioration des graphismes |
+| 1.2 | 03/05/2020 | Livret refait sous LibreOffice Draw : texte modifiable, images modifiables unes à unes, correction d'erreurs, amélioration des graphismes |
 
 ### Version Markdown
 
@@ -26,7 +26,7 @@ Version actuelle : **1.2**
 
 | Numéro de version | Date de publication | Description |
 | ----------------- | ------------------- | ----------- |
-| 1.2 | 03/04/2020 | Première version du livret en Markdown |
+| 1.2 | 03/05/2020 | Première version du livret en Markdown |
 
 ## Changements à venir
 
