@@ -249,7 +249,7 @@ Cet exemple était assez complexe donc pour illustrer de façon plus simple la l
 
 *F* / **R U R' U'** / *F'* - ou encore - *R U* / **U R' U' R** / *U' R'*
 
-Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ainsi que la suite d'action au centre. De plus les transitions sont parfaitement symétriques en étant sous la forme *M1* / *M1'* et *M1 M2** / *M2' M1'*.
+Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ainsi que la suite d'action au centre. De plus les transitions sont parfaitement symétriques en étant sous la forme *M1* / *M1'* et *M1 M2* / *M2' M1'*.
 
 ||||
 |:-|:-:|-:|
