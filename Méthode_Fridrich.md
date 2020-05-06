@@ -43,27 +43,27 @@ Le but est de résoudre le Rubik's Cube en **4 étapes** : la **croix**, les **
 
 ### Étape 1
 
-![croix](images/cubes/croix.png)
+![croix](images/cubes/croix.svg)
 
 La **croix** (Cross) est résolue logiquement avec une moyenne de 8 mouvements en 2 ou 3 secondes. Pour arriver à la résoudre aussi rapidement il est nécessaire de bien connaître les couleurs de son cube et de beaucoup s'entraîner afin de préparer les mouvements à l'avance. Il n'y a pas vraiment d'algorithme à apprendre pour cette étape.
 
 ### Étape 2
 
-![F2L](images/cubes/F2L.png)
+![F2L](images/cubes/F2L.svg)
 
 Les **F2L** (First Two Layers) sont l'étape la plus longue consistant à **résoudre** les *deux premiers étages*. Le but est de regrouper un coin et une arête complémentaires appartenant à la face de référence (dont la couleur est celle de la croix) puis de les placer en même temps.  
 Cette étape regroupe 41 algorithmes mais elle peut se faire logiquement pour certains. Il est cependant préférable d'apprendre les algorithmes de la méthode pour aller plus vite.
 
 ### Étape 3
 
-![OLL](images/cubes/OLL.png)
+![OLL](images/cubes/OLL.svg)
 
 Les **OLL** (Orientation Last Layer) sont l'étape consistant à **orienter** tous les cubes de la couleur de la dernière face sur celle-ci (la face opposée à la première face) afin qu'elle soit unicolore et qu'il ne reste plus que la troisième couronne à compléter.  
 Cette étape regroupe 57 algorithmes.
 
 ### Étape 4
 
-![grand-cube-fait](images/cubes/grand-cube-fait.png)
+![grand-cube-fait](images/cubes/grand-cube-fait.svg)
 
 Les **PLL** (Permutation Last Layer) sont l'étape où l'on va **permuter** les coins et les arêtes de la troisième couronne afin de refaire le cube.  
 Cette étape regroupe 21 algorithmes.
