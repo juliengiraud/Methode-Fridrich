@@ -86,11 +86,11 @@ Pour lire ce langage il faut connaître les choses suivantes :
 
 ||||
 |:-|:-:|-:|
-| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Si vous êtes perdu pas d'inquiétude, <br> les exemples seront plus clairs ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
+| ![petit-cube-fait](images/cubes/petit-cube-fait.svg) | Si vous êtes perdu pas d'inquiétude, <br> les exemples seront plus clairs ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.svg) |
 
 ---
 
-![moyen-cube-fait](images/cubes/moyen-cube-fait.png)
+![moyen-cube-fait](images/cubes/moyen-cube-fait.svg)
 
 Afin de vous présenter le langage, nous allons mettre la face bleue devant nous avec la face jaune au dessus |
 
@@ -167,7 +167,7 @@ Pour généraliser, FaceA → FaceB signifie que l'on doit déplacer le cube **s
 
 ||||
 |:-|:-:|-:|
-| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Si vous êtes perdu pas d'inquiétude, <br> les exemples reviennent ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
+| ![petit-cube-fait](images/cubes/petit-cube-fait.svg) | Si vous êtes perdu pas d'inquiétude, <br> les exemples reviennent ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.svg) |
 
 ![petit-crane](images/petit-crane.png)
 
@@ -175,42 +175,42 @@ Pour généraliser, FaceA → FaceB signifie que l'on doit déplacer le cube **s
 
 ![petit-cube-engrenages](images/petit-cube-engrenages.png)
 
-![moyen-cube-fait](images/cubes/moyen-cube-fait.png)
+![moyen-cube-fait](images/cubes/moyen-cube-fait.svg)
 
 On prend une fois de plus la face bleue comme face de référence. Voici donc tous les cas utilisés dans ce livret :
 
-Départ : ![moyen-cube-fait](images/cubes/moyen-cube-fait.png)  
-Arrivée : ![moyen-cube-fait-R->F](images/cubes/moyen-cube-fait-R->F.png)  
+Départ : ![moyen-cube-fait](images/cubes/moyen-cube-fait.svg)  
+Arrivée : ![moyen-cube-fait-R->F](images/cubes/moyen-cube-fait-R->F.svg)  
 → La face de droite passe à la place de la face de devant. On le note **R→F**.
 
 ---
 
-Départ : ![moyen-cube-fait](images/cubes/moyen-cube-fait.png)  
-Arrivée : ![moyen-cube-fait-L->F](images/cubes/moyen-cube-fait-L->F.png)  
+Départ : ![moyen-cube-fait](images/cubes/moyen-cube-fait.svg)  
+Arrivée : ![moyen-cube-fait-L->F](images/cubes/moyen-cube-fait-L->F.svg)  
 → La face de gauche passe à la place de la face de devant. On le note **L→F**.
 
 ---
 
-Départ : ![moyen-cube-fait](images/cubes/moyen-cube-fait.png)  
-Arrivée : ![moyen-cube-fait-U->F](images/cubes/moyen-cube-fait-U->F.png)  
+Départ : ![moyen-cube-fait](images/cubes/moyen-cube-fait.svg)  
+Arrivée : ![moyen-cube-fait-U->F](images/cubes/moyen-cube-fait-U->F.svg)  
 → La face du haut passe à la place de la face de devant. On le note **U→F**.
 
 ---
 
-Départ : ![moyen-cube-fait](images/cubes/moyen-cube-fait.png)  
-Arrivée : ![moyen-cube-fait-D->F](images/cubes/moyen-cube-fait-D->F.png)  
+Départ : ![moyen-cube-fait](images/cubes/moyen-cube-fait.svg)  
+Arrivée : ![moyen-cube-fait-D->F](images/cubes/moyen-cube-fait-D->F.svg)  
 → La face du bas passe à la place de la face de devant. On le note **D→F**.
 
 ---
 
-Départ : ![moyen-cube-fait](images/cubes/moyen-cube-fait.png)  
-Arrivée : ![moyen-cube-fait-R->U](images/cubes/moyen-cube-fait-R->U.png)  
+Départ : ![moyen-cube-fait](images/cubes/moyen-cube-fait.svg)  
+Arrivée : ![moyen-cube-fait-R->U](images/cubes/moyen-cube-fait-R->U.svg)  
 → La face de droite passe à la place de la face du haut. On le note **R→U**.
 
 ---
 
-Départ : ![moyen-cube-fait](images/cubes/moyen-cube-fait.png)  
-Arrivée : ![moyen-cube-fait-L->U](images/cubes/moyen-cube-fait-L->U.png)  
+Départ : ![moyen-cube-fait](images/cubes/moyen-cube-fait.svg)  
+Arrivée : ![moyen-cube-fait-L->U](images/cubes/moyen-cube-fait-L->U.svg)  
 → La face de gauche passe à la place de la face du haut. On le note **L→U**.
 
 ---
@@ -221,7 +221,7 @@ Si vous avez du mal je vous conseil de regarder mes astuces de mémorisation mai
 
 ||||
 |:-|:-:|-:|
-| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Bonne chance !| ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
+| ![petit-cube-fait](images/cubes/petit-cube-fait.svg) | Bonne chance !| ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.svg) |
 
 ---
 
@@ -236,7 +236,7 @@ Dans presque la totalité des cas, M1 et M2 appartiennent à des faces consécut
 
 ||||
 |:-|:-:|-:|
-| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Si vous êtes perdu pas d'inquiétude, <br> les exemples reviennent encore ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
+| ![petit-cube-fait](images/cubes/petit-cube-fait.svg) | Si vous êtes perdu pas d'inquiétude, <br> les exemples reviennent encore ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.svg) |
 
 Pour vous montrer le fonctionnement de cette technique nous allons utiliser l'algorithme suivant :
 
@@ -253,7 +253,7 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 
 ||||
 |:-|:-:|-:|
-| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Vous pouvez maintenant passer à l'apprentissage <br> des algorithmes. Bonne chance ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
+| ![petit-cube-fait](images/cubes/petit-cube-fait.svg) | Vous pouvez maintenant passer à l'apprentissage <br> des algorithmes. Bonne chance ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.svg) |
 
 ---
 
@@ -396,7 +396,7 @@ L' U' L
 
 ||||
 |:-|:-:|-:|
-| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Cette étape prend beaucoup de <br> temps. Vous devez persévérer ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
+| ![petit-cube-fait](images/cubes/petit-cube-fait.svg) | Cette étape prend beaucoup de <br> temps. Vous devez persévérer ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.svg) |
 
 ---
 
@@ -613,7 +613,7 @@ Vous pouvez donc commencer par apprendre ces 9 algorithmes avant d'apprendre les
 
 ||||
 |:-|:-:|-:|
-| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | Après ça la suite va vous paraître <br> super simple. Vous allez voir ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
+| ![petit-cube-fait](images/cubes/petit-cube-fait.svg) | Après ça la suite va vous paraître <br> super simple. Vous allez voir ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.svg) |
 
 ---
 
@@ -693,4 +693,4 @@ Pour commencer on ne s'occupe pas des coins et il ne faut pas hésiter à **tour
 
 ||||
 |:-|:-:|-:|
-| ![petit-cube-fait](images/cubes/petit-cube-fait.png) | C’était la dernière étape. <br> Amusez-vous bien ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.png) |
+| ![petit-cube-fait](images/cubes/petit-cube-fait.svg) | C’était la dernière étape. <br> Amusez-vous bien ! | ![petit-cube-fait-miroir](images/cubes/petit-cube-fait-miroir.svg) |

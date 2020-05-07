@@ -30,6 +30,15 @@ Version actuelle : **1.2**
 
 ## Changements à venir
 
-1. En je souhaite avoir une version web de ce guide. Dans un premier temps je travail sur une version en Markdown et je vais refaire toutes les images au format vectoriel
+1. Je suis entrain de refaire toutes les images (246) au format vectoriel sur Inkscape :
 
-2. À long terme je souhaite revoir toute la structure du guide, reformuler certaines explications, ajouter des illustrations... bref, améliorer tout ça en fait !
+- *images/* → 4 images à refaire
+- *images/cubes* → 13 images faites
+- *images/F2L* → 118 images à refaire
+- *images/mouvements* → 33 images à refaire
+- *images/OLL* → 57 images à refaire
+- *images/PLL* → 21 images à refaire
+
+2. Je souhaite avoir une version web de ce guide, basée sur la version Markdown
+
+3. À long terme je souhaite revoir toute la structure du guide, reformuler certaines explications, ajouter des illustrations... bref, améliorer tout ça en fait !
