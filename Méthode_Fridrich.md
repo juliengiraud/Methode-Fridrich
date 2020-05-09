@@ -1,8 +1,8 @@
 # Méthode Fridrich : accessible à tous
 
-![grand-crane](images/png/grand-crane.png)
+![grand-crane](images/svg/grand-crane.svg)
 
-![grand-cube-engrenages](images/png/grand-cube-engrenages.png)
+![grand-cube-engrenages](images/svg/grand-cube-engrenages.svg)
 
 Réalisé par **Julien Giraud**
 
@@ -14,7 +14,7 @@ Réalisé par **Julien Giraud**
 
 ## Méthode Fridrich : Sommaire
 
-![grand-crane](images/png/grand-crane.png)
+![grand-crane](images/svg/grand-crane.svg)
 
 - **Introduction à la méthode**
 
@@ -33,7 +33,7 @@ Réalisé par **Julien Giraud**
 
 ## Méthode Fridrich : Qu'est-ce la méthode CFOP ?
 
-![grand-crane](images/png/grand-crane.png)
+![grand-crane](images/svg/grand-crane.svg)
 
 > La méthode créée par **Jessica Fridrich** autrement appelée la méthode CFOP (Cross F2L OLL PLL) est une technique de résolution du Rubik's Cube 3x3x3 très rapide et utilisée par la plupart des champions de speedcubing.
 >
@@ -70,7 +70,7 @@ Cette étape regroupe 21 algorithmes.
 
 ---
 
-![grand-crane](images/png/grand-crane.png)
+![grand-crane](images/svg/grand-crane.svg)
 
 ## Méthode Fridrich : Le langage universel
 
@@ -169,7 +169,7 @@ Pour généraliser, FaceA → FaceB signifie que l'on doit déplacer le cube **s
 |:-|:-:|-:|
 | ![petit-cube-fait](images/svg/cubes/petit-cube-fait.svg) | Si vous êtes perdu pas d'inquiétude, <br> les exemples reviennent ! | ![petit-cube-fait-miroir](images/svg/cubes/petit-cube-fait-miroir.svg) |
 
-![petit-crane](images/png/petit-crane.png)
+![petit-crane](images/svg/petit-crane.svg)
 
 ### Méthode Fridrich : ~~Le langage universel~~ Exception au langage
 
@@ -225,7 +225,7 @@ Si vous avez du mal je vous conseil de regarder mes astuces de mémorisation mai
 
 ---
 
-![grand-crane](images/png/grand-crane.png)
+![grand-crane](images/svg/grand-crane.svg)
 
 ## Méthode Fridrich : Astuces et conseils d'apprentissage
 
@@ -257,7 +257,7 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 
 ---
 
-![grand-crane](images/png/grand-crane.png)
+![grand-crane](images/svg/grand-crane.svg)
 
 ## Méthode Fridrich : Les 41 F2L (First Two Layers)
 
@@ -400,7 +400,7 @@ L' U' L
 
 ---
 
-![grand-crane](images/png/grand-crane.png)
+![grand-crane](images/svg/grand-crane.svg)
 
 ## Méthode Fridrich : Les 57 OLL (Orientation Last Layer)
 
@@ -617,7 +617,7 @@ Vous pouvez donc commencer par apprendre ces 9 algorithmes avant d'apprendre les
 
 ---
 
-![grand-crane](images/png/grand-crane.png)
+![grand-crane](images/svg/grand-crane.svg)
 
 ## Méthode Fridrich : Les 21 PLL (Permutation Last Layer)
 

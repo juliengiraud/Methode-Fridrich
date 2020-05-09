@@ -32,7 +32,7 @@ Version actuelle : **1.2**
 
 1. Je suis entrain de refaire toutes les images (169) au format vectoriel sur Inkscape :
 
-- *images/* → 4 images à refaire
+- *images/* → 4 images faites
 - *images/cubes* → 13 images faites
 - *images/F2L* → 41 images à refaire
 - *images/mouvements* → 33 images faites
