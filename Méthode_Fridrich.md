@@ -43,27 +43,27 @@ Le but est de résoudre le Rubik's Cube en **4 étapes** : la **croix**, les **
 
 ### Étape 1
 
-![croix](images/build/cubes/croix.svg)
+![croix](images/svg/cubes/croix.svg)
 
 La **croix** (Cross) est résolue logiquement avec une moyenne de 8 mouvements en 2 ou 3 secondes. Pour arriver à la résoudre aussi rapidement il est nécessaire de bien connaître les couleurs de son cube et de beaucoup s'entraîner afin de préparer les mouvements à l'avance. Il n'y a pas vraiment d'algorithme à apprendre pour cette étape.
 
 ### Étape 2
 
-![F2L](images/build/cubes/F2L.svg)
+![F2L](images/svg/cubes/F2L.svg)
 
 Les **F2L** (First Two Layers) sont l'étape la plus longue consistant à **résoudre** les *deux premiers étages*. Le but est de regrouper un coin et une arête complémentaires appartenant à la face de référence (dont la couleur est celle de la croix) puis de les placer en même temps.  
 Cette étape regroupe 41 algorithmes mais elle peut se faire logiquement pour certains. Il est cependant préférable d'apprendre les algorithmes de la méthode pour aller plus vite.
 
 ### Étape 3
 
-![OLL](images/build/cubes/OLL.svg)
+![OLL](images/svg/cubes/OLL.svg)
 
 Les **OLL** (Orientation Last Layer) sont l'étape consistant à **orienter** tous les cubes de la couleur de la dernière face sur celle-ci (la face opposée à la première face) afin qu'elle soit unicolore et qu'il ne reste plus que la troisième couronne à compléter.  
 Cette étape regroupe 57 algorithmes.
 
 ### Étape 4
 
-![grand-cube-fait](images/build/cubes/grand-cube-fait.svg)
+![grand-cube-fait](images/svg/cubes/grand-cube-fait.svg)
 
 Les **PLL** (Permutation Last Layer) sont l'étape où l'on va **permuter** les coins et les arêtes de la troisième couronne afin de refaire le cube.  
 Cette étape regroupe 21 algorithmes.
@@ -86,79 +86,79 @@ Pour lire ce langage il faut connaître les choses suivantes :
 
 ||||
 |:-|:-:|-:|
-| ![petit-cube-fait](images/build/cubes/petit-cube-fait.svg) | Si vous êtes perdu pas d'inquiétude, <br> les exemples seront plus clairs ! | ![petit-cube-fait-miroir](images/build/cubes/petit-cube-fait-miroir.svg) |
+| ![petit-cube-fait](images/svg/cubes/petit-cube-fait.svg) | Si vous êtes perdu pas d'inquiétude, <br> les exemples seront plus clairs ! | ![petit-cube-fait-miroir](images/svg/cubes/petit-cube-fait-miroir.svg) |
 
 ---
 
-![moyen-cube-fait](images/build/cubes/moyen-cube-fait.svg)
+![moyen-cube-fait](images/svg/cubes/moyen-cube-fait.svg)
 
 Afin de vous présenter le langage, nous allons mettre la face bleue devant nous avec la face jaune au dessus |
 
-- ![R](images/png/mouvements/R.png) **R**
+- ![R](images/svg/mouvements/R.svg) **R**
 
-- ![R'](images/png/mouvements/R'.png) **R'**
+- ![R'](images/svg/mouvements/R'.svg) **R'**
 
-- ![R2](images/png/mouvements/R2.png) **R2**
+- ![R2](images/svg/mouvements/R2.svg) **R2**
 
-- ![r](images/png/mouvements/r.png) **r**
+- ![r](images/svg/mouvements/r.svg) **r**
 
-- ![r'](images/png/mouvements/r'.png) **r'**
+- ![r'](images/svg/mouvements/r'.svg) **r'**
 
-- ![r2](images/png/mouvements/r2.png) **r2**
+- ![r2](images/svg/mouvements/r2.svg) **r2**
 
-- ![L](images/png/mouvements/L.png) **L**
+- ![L](images/svg/mouvements/L.svg) **L**
 
-- ![L'](images/png/mouvements/L'.png) **L'**
+- ![L'](images/svg/mouvements/L'.svg) **L'**
 
-- ![L2](images/png/mouvements/L2.png) **L2**
+- ![L2](images/svg/mouvements/L2.svg) **L2**
 
-- ![l](images/png/mouvements/l.png) **l**
+- ![l](images/svg/mouvements/l.svg) **l**
 
-- ![l'](images/png/mouvements/l'.png) **l'**
+- ![l'](images/svg/mouvements/l'.svg) **l'**
 
-- ![l2](images/png/mouvements/l2.png) **l2**
+- ![l2](images/svg/mouvements/l2.svg) **l2**
 
-- ![U](images/png/mouvements/U.png) **U**
+- ![U](images/svg/mouvements/U.svg) **U**
 
-- ![U'](images/png/mouvements/U'.png) **U'**
+- ![U'](images/svg/mouvements/U'.svg) **U'**
 
-- ![U2](images/png/mouvements/U2.png) **U2**
+- ![U2](images/svg/mouvements/U2.svg) **U2**
   
-- ![u](images/png/mouvements/u.png) **u**
+- ![u](images/svg/mouvements/u.svg) **u**
 
-- ![u'](images/png/mouvements/u'.png) **u'**
+- ![u'](images/svg/mouvements/u'.svg) **u'**
 
-- ![u2](images/png/mouvements/u2.png) **u2**
+- ![u2](images/svg/mouvements/u2.svg) **u2**
 
-- ![D](images/png/mouvements/D.png) **D**
+- ![D](images/svg/mouvements/D.svg) **D**
 
-- ![D'](images/png/mouvements/D'.png) **D'**
+- ![D'](images/svg/mouvements/D'.svg) **D'**
 
-- ![D2](images/png/mouvements/D2.png) **D2**
+- ![D2](images/svg/mouvements/D2.svg) **D2**
 
-- ![d](images/png/mouvements/d.png) **d**
+- ![d](images/svg/mouvements/d.svg) **d**
 
-- ![d'](images/png/mouvements/d'.png) **d'**
+- ![d'](images/svg/mouvements/d'.svg) **d'**
 
-- ![d2](images/png/mouvements/d2.png) **d2**
+- ![d2](images/svg/mouvements/d2.svg) **d2**
 
-- ![F](images/png/mouvements/F.png) **F**
+- ![F](images/svg/mouvements/F.svg) **F**
 
-- ![F'](images/png/mouvements/F'.png) **F'**
+- ![F'](images/svg/mouvements/F'.svg) **F'**
 
-- ![F2](images/png/mouvements/F2.png) **F2**
+- ![F2](images/svg/mouvements/F2.svg) **F2**
 
-- ![B](images/png/mouvements/B.png) **B**
+- ![B](images/svg/mouvements/B.svg) **B**
 
-- ![B'](images/png/mouvements/B'.png) **B'**
+- ![B'](images/svg/mouvements/B'.svg) **B'**
 
-- ![B2](images/png/mouvements/B2.png) **B2**
+- ![B2](images/svg/mouvements/B2.svg) **B2**
 
-- ![M](images/png/mouvements/M.png) **M**
+- ![M](images/svg/mouvements/M.svg) **M**
 
-- ![M'](images/png/mouvements/M'.png) **M'**
+- ![M'](images/svg/mouvements/M'.svg) **M'**
 
-- ![M2](images/png/mouvements/M2.png) **M2**
+- ![M2](images/svg/mouvements/M2.svg) **M2**
 
 Dans le langage universel complet il y a d'autres mouvements qui ne sont pas utilisés dans ce livret, aussi il y a les *changements de points de vue* que je note *différemment*.
 
@@ -167,7 +167,7 @@ Pour généraliser, FaceA → FaceB signifie que l'on doit déplacer le cube **s
 
 ||||
 |:-|:-:|-:|
-| ![petit-cube-fait](images/build/cubes/petit-cube-fait.svg) | Si vous êtes perdu pas d'inquiétude, <br> les exemples reviennent ! | ![petit-cube-fait-miroir](images/build/cubes/petit-cube-fait-miroir.svg) |
+| ![petit-cube-fait](images/svg/cubes/petit-cube-fait.svg) | Si vous êtes perdu pas d'inquiétude, <br> les exemples reviennent ! | ![petit-cube-fait-miroir](images/svg/cubes/petit-cube-fait-miroir.svg) |
 
 ![petit-crane](images/png/petit-crane.png)
 
@@ -175,42 +175,42 @@ Pour généraliser, FaceA → FaceB signifie que l'on doit déplacer le cube **s
 
 ![petit-cube-engrenages](images/png/petit-cube-engrenages.png)
 
-![moyen-cube-fait](images/build/cubes/moyen-cube-fait.svg)
+![moyen-cube-fait](images/svg/cubes/moyen-cube-fait.svg)
 
 On prend une fois de plus la face bleue comme face de référence. Voici donc tous les cas utilisés dans ce livret :
 
-Départ : ![moyen-cube-fait](images/build/cubes/moyen-cube-fait.svg)  
-Arrivée : ![moyen-cube-fait-R->F](images/build/cubes/moyen-cube-fait-R->F.svg)  
+Départ : ![moyen-cube-fait](images/svg/cubes/moyen-cube-fait.svg)  
+Arrivée : ![moyen-cube-fait-R->F](images/svg/cubes/moyen-cube-fait-R->F.svg)  
 → La face de droite passe à la place de la face de devant. On le note **R→F**.
 
 ---
 
-Départ : ![moyen-cube-fait](images/build/cubes/moyen-cube-fait.svg)  
-Arrivée : ![moyen-cube-fait-L->F](images/build/cubes/moyen-cube-fait-L->F.svg)  
+Départ : ![moyen-cube-fait](images/svg/cubes/moyen-cube-fait.svg)  
+Arrivée : ![moyen-cube-fait-L->F](images/svg/cubes/moyen-cube-fait-L->F.svg)  
 → La face de gauche passe à la place de la face de devant. On le note **L→F**.
 
 ---
 
-Départ : ![moyen-cube-fait](images/build/cubes/moyen-cube-fait.svg)  
-Arrivée : ![moyen-cube-fait-U->F](images/build/cubes/moyen-cube-fait-U->F.svg)  
+Départ : ![moyen-cube-fait](images/svg/cubes/moyen-cube-fait.svg)  
+Arrivée : ![moyen-cube-fait-U->F](images/svg/cubes/moyen-cube-fait-U->F.svg)  
 → La face du haut passe à la place de la face de devant. On le note **U→F**.
 
 ---
 
-Départ : ![moyen-cube-fait](images/build/cubes/moyen-cube-fait.svg)  
-Arrivée : ![moyen-cube-fait-D->F](images/build/cubes/moyen-cube-fait-D->F.svg)  
+Départ : ![moyen-cube-fait](images/svg/cubes/moyen-cube-fait.svg)  
+Arrivée : ![moyen-cube-fait-D->F](images/svg/cubes/moyen-cube-fait-D->F.svg)  
 → La face du bas passe à la place de la face de devant. On le note **D→F**.
 
 ---
 
-Départ : ![moyen-cube-fait](images/build/cubes/moyen-cube-fait.svg)  
-Arrivée : ![moyen-cube-fait-R->U](images/build/cubes/moyen-cube-fait-R->U.svg)  
+Départ : ![moyen-cube-fait](images/svg/cubes/moyen-cube-fait.svg)  
+Arrivée : ![moyen-cube-fait-R->U](images/svg/cubes/moyen-cube-fait-R->U.svg)  
 → La face de droite passe à la place de la face du haut. On le note **R→U**.
 
 ---
 
-Départ : ![moyen-cube-fait](images/build/cubes/moyen-cube-fait.svg)  
-Arrivée : ![moyen-cube-fait-L->U](images/build/cubes/moyen-cube-fait-L->U.svg)  
+Départ : ![moyen-cube-fait](images/svg/cubes/moyen-cube-fait.svg)  
+Arrivée : ![moyen-cube-fait-L->U](images/svg/cubes/moyen-cube-fait-L->U.svg)  
 → La face de gauche passe à la place de la face du haut. On le note **L→U**.
 
 ---
@@ -221,7 +221,7 @@ Si vous avez du mal je vous conseil de regarder mes astuces de mémorisation mai
 
 ||||
 |:-|:-:|-:|
-| ![petit-cube-fait](images/build/cubes/petit-cube-fait.svg) | Bonne chance !| ![petit-cube-fait-miroir](images/build/cubes/petit-cube-fait-miroir.svg) |
+| ![petit-cube-fait](images/svg/cubes/petit-cube-fait.svg) | Bonne chance !| ![petit-cube-fait-miroir](images/svg/cubes/petit-cube-fait-miroir.svg) |
 
 ---
 
@@ -236,7 +236,7 @@ Dans presque la totalité des cas, M1 et M2 appartiennent à des faces consécut
 
 ||||
 |:-|:-:|-:|
-| ![petit-cube-fait](images/build/cubes/petit-cube-fait.svg) | Si vous êtes perdu pas d'inquiétude, <br> les exemples reviennent encore ! | ![petit-cube-fait-miroir](images/build/cubes/petit-cube-fait-miroir.svg) |
+| ![petit-cube-fait](images/svg/cubes/petit-cube-fait.svg) | Si vous êtes perdu pas d'inquiétude, <br> les exemples reviennent encore ! | ![petit-cube-fait-miroir](images/svg/cubes/petit-cube-fait-miroir.svg) |
 
 Pour vous montrer le fonctionnement de cette technique nous allons utiliser l'algorithme suivant :
 
@@ -253,7 +253,7 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 
 ||||
 |:-|:-:|-:|
-| ![petit-cube-fait](images/build/cubes/petit-cube-fait.svg) | Vous pouvez maintenant passer à l'apprentissage <br> des algorithmes. Bonne chance ! | ![petit-cube-fait-miroir](images/build/cubes/petit-cube-fait-miroir.svg) |
+| ![petit-cube-fait](images/svg/cubes/petit-cube-fait.svg) | Vous pouvez maintenant passer à l'apprentissage <br> des algorithmes. Bonne chance ! | ![petit-cube-fait-miroir](images/svg/cubes/petit-cube-fait-miroir.svg) |
 
 ---
 
@@ -396,7 +396,7 @@ L' U' L
 
 ||||
 |:-|:-:|-:|
-| ![petit-cube-fait](images/build/cubes/petit-cube-fait.svg) | Cette étape prend beaucoup de <br> temps. Vous devez persévérer ! | ![petit-cube-fait-miroir](images/build/cubes/petit-cube-fait-miroir.svg) |
+| ![petit-cube-fait](images/svg/cubes/petit-cube-fait.svg) | Cette étape prend beaucoup de <br> temps. Vous devez persévérer ! | ![petit-cube-fait-miroir](images/svg/cubes/petit-cube-fait-miroir.svg) |
 
 ---
 
@@ -613,7 +613,7 @@ Vous pouvez donc commencer par apprendre ces 9 algorithmes avant d'apprendre les
 
 ||||
 |:-|:-:|-:|
-| ![petit-cube-fait](images/build/cubes/petit-cube-fait.svg) | Après ça la suite va vous paraître <br> super simple. Vous allez voir ! | ![petit-cube-fait-miroir](images/build/cubes/petit-cube-fait-miroir.svg) |
+| ![petit-cube-fait](images/svg/cubes/petit-cube-fait.svg) | Après ça la suite va vous paraître <br> super simple. Vous allez voir ! | ![petit-cube-fait-miroir](images/svg/cubes/petit-cube-fait-miroir.svg) |
 
 ---
 
@@ -693,4 +693,4 @@ Pour commencer on ne s'occupe pas des coins et il ne faut pas hésiter à **tour
 
 ||||
 |:-|:-:|-:|
-| ![petit-cube-fait](images/build/cubes/petit-cube-fait.svg) | C’était la dernière étape. <br> Amusez-vous bien ! | ![petit-cube-fait-miroir](images/build/cubes/petit-cube-fait-miroir.svg) |
+| ![petit-cube-fait](images/svg/cubes/petit-cube-fait.svg) | C’était la dernière étape. <br> Amusez-vous bien ! | ![petit-cube-fait-miroir](images/svg/cubes/petit-cube-fait-miroir.svg) |
