@@ -173,7 +173,7 @@ Pour généraliser, FaceA → FaceB signifie que l'on doit déplacer le cube **s
 
 ### Méthode Fridrich : ~~Le langage universel~~ Exception au langage
 
-![petit-cube-engrenages](images/png/petit-cube-engrenages.png)
+![petit-cube-engrenages](images/svg/petit-cube-engrenages.svg)
 
 ![moyen-cube-fait](images/svg/cubes/moyen-cube-fait.svg)
 
