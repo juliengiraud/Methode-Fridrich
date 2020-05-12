@@ -30,14 +30,14 @@ Version actuelle : **1.2**
 
 ## Changements à venir
 
-1. Je suis entrain de refaire toutes les images (169) au format vectoriel sur Inkscape :
+1. Je suis entrain de refaire toutes les images (91/169) au format vectoriel sur Inkscape :
 
-- *images/* → 4 images faites
-- *images/cubes* → 13 images faites
-- *images/F2L* → 41 images à refaire
-- *images/mouvements* → 33 images faites
-- *images/OLL* → 57 images à refaire
-- *images/PLL* → 21 images à refaire
+    - *images/* → 4 images refaites
+    - *images/cubes* → 13 images refaites
+    - *images/F2L* → 41 images refaites
+    - *images/mouvements* → 33 images refaites
+    - *images/OLL* → 57 images à refaites
+    - *images/PLL* → 21 images à refaites
 
 2. Je souhaite avoir une version web de ce guide, basée sur la version Markdown
 

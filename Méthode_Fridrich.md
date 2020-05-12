@@ -263,135 +263,135 @@ Dans ces deux cas on voit beaucoup plus la transition au début et à la fin ain
 
 ### Cubes en position, mal orientés :
 
-1. ![F2L-1-bas](images/png/F2L/F2L-1.png)  
+1. ![F2L-1-bas](images/svg/F2L/F2L-1.svg)  
 L2 U2 L U L' U L U2 L
 
-2. ![F2L-2-bas](images/png/F2L/F2L-2.png)  
+2. ![F2L-2-bas](images/svg/F2L/F2L-2.svg)  
 L' U2 L' U' L U' L' U2 L2
 
-3. ![F2L-3-bas](images/png/F2L/F2L-3.png)  
+3. ![F2L-3-bas](images/svg/F2L/F2L-3.svg)  
 R U' R U B U' B' R2
 
-4. ![F2L-4-bas](images/png/F2L/F2L-4.png)  
+4. ![F2L-4-bas](images/svg/F2L/F2L-4.svg)  
 L' U L' U' B' U B L2
 
-5. ![F2L-5-bas](images/png/F2L/F2L-5.png)  
+5. ![F2L-5-bas](images/svg/F2L/F2L-5.svg)  
 R U R' U2 R U2 R' U F' U' F
 
-6. ![F2L-6-bas](images/png/F2L/F2L-6.png)  
+6. ![F2L-6-bas](images/svg/F2L/F2L-6.svg)  
 U' L' U L d R U' R'
 
 ### Coin en position, pas l'arête
 
-7. ![F2L-7-bas](images/png/F2L/F2L-7.png)  
+7. ![F2L-7-bas](images/svg/F2L/F2L-7.svg)  
 U R U' R' d' L' U L
 
-8. ![F2L-8-bas](images/png/F2L/F2L-8.png)  
+8. ![F2L-8-bas](images/svg/F2L/F2L-8.svg)  
 L' U L U' L' U L
 
-9. ![F2L-9-bas](images/png/F2L/F2L-9.png)  
+9. ![F2L-9-bas](images/svg/F2L/F2L-9.svg)  
 R U R' U' R U R'
 
-10. ![F2L-10-bas](images/png/F2L/F2L-10.png)  
+10. ![F2L-10-bas](images/svg/F2L/F2L-10.svg)  
 L' U' L U L' U' L
 
-11. ![F2L-11-bas](images/png/F2L/F2L-11.png)  
+11. ![F2L-11-bas](images/svg/F2L/F2L-11.svg)  
 R U' R' U R U' R'
 
 ### Arête en position, pas le coin
 
-12. ![F2L-12-bas](images/png/F2L/F2L-12.png)  
+12. ![F2L-12-bas](images/svg/F2L/F2L-12.svg)  
 R2 U R2 U R2 U2 R2
 
-13. ![F2L-13-bas](images/png/F2L/F2L-13.png)  
+13. ![F2L-13-bas](images/svg/F2L/F2L-13.svg)  
 U L' U L U2 L' U L
 
-14. ![F2L-14-bas](images/png/F2L/F2L-14.png)  
+14. ![F2L-14-bas](images/svg/F2L/F2L-14.svg)  
 U' R U' R' U2 R U' R'
 
-15. ![F2L-15-bas](images/png/F2L/F2L-15.png)  
+15. ![F2L-15-bas](images/svg/F2L/F2L-15.svg)  
 U L' U' L U' F U F'
 
-16. ![F2L-16-bas](images/png/F2L/F2L-16.png)  
+16. ![F2L-16-bas](images/svg/F2L/F2L-16.svg)  
 U' R U R' d R' U' R
 
-17. ![F2L-17-bas](images/png/F2L/F2L-17.png)  
+17. ![F2L-17-bas](images/svg/F2L/F2L-17.svg)  
 F' U F R U2 R'
 
 ### Cubes à droite, accolés
 
-18. ![F2L-18-bas](images/png/F2L/F2L-18.png)  
+18. ![F2L-18-bas](images/svg/F2L/F2L-18.svg)  
 R U2 R' U' R U R'
 
-19. ![F2L-19-bas](images/png/F2L/F2L-19.png)  
+19. ![F2L-19-bas](images/svg/F2L/F2L-19.svg)  
 U R U' R'
 
-20. ![F2L-20-bas](images/png/F2L/F2L-20.png)  
+20. ![F2L-20-bas](images/svg/F2L/F2L-20.svg)  
 U' R U' R' U R U R'
 
-21. ![F2L-21-bas](images/png/F2L/F2L-21.png)  
+21. ![F2L-21-bas](images/svg/F2L/F2L-21.svg)  
 U2 L2 U2 L U L' U L2
 
-22. ![F2L-22-bas](images/png/F2L/F2L-22.png)  
+22. ![F2L-22-bas](images/svg/F2L/F2L-22.svg)  
 U' R U2 R' U F' U' F
 
-23. ![F2L-23-bas](images/png/F2L/F2L-23.png)  
+23. ![F2L-23-bas](images/svg/F2L/F2L-23.svg)  
 R U' R' U2 F' U' F
 
-24. ![F2L-24-bas](images/png/F2L/F2L-24.png)  
+24. ![F2L-24-bas](images/svg/F2L/F2L-24.svg)  
 U L' U L U' L' U' L
 
-25. ![F2L-25-bas](images/png/F2L/F2L-25.png)  
+25. ![F2L-25-bas](images/svg/F2L/F2L-25.svg)  
 U' L' U L
 
-26. ![F2L-26-bas](images/png/F2L/F2L-26.png)  
+26. ![F2L-26-bas](images/svg/F2L/F2L-26.svg)  
 L' U2 L U L' U' L
 
-27. ![F2L-27-bas](images/png/F2L/F2L-27.png)  
+27. ![F2L-27-bas](images/svg/F2L/F2L-27.svg)  
 L' U L U2 F U F'
 
-28. ![F2L-28-bas](images/png/F2L/F2L-28.png)  
+28. ![F2L-28-bas](images/svg/F2L/F2L-28.svg)  
 U L' U2 L U' F U F'
 
-29. ![F2L-29-bas](images/png/F2L/F2L-29.png)  
+29. ![F2L-29-bas](images/svg/F2L/F2L-29.svg)  
 U2 R2 U2 R' U' R U' R2
 
 ### Cubes à droite, séparés
 
-30. ![F2L-30-bas](images/png/F2L/F2L-30.png)  
+30. ![F2L-30-bas](images/svg/F2L/F2L-30.svg)  
 U2 L' U' L U' L' U L
 
-31. ![F2L-31-bas](images/png/F2L/F2L-31.png)  
+31. ![F2L-31-bas](images/svg/F2L/F2L-31.svg)  
 U R U2 R' U R U' R'
 
-32. ![F2L-32-bas](images/png/F2L/F2L-32.png)  
+32. ![F2L-32-bas](images/svg/F2L/F2L-32.svg)  
 U' L' U2 L U' L' U L
 
-33. ![F2L-33-bas](images/png/F2L/F2L-33.png)  
+33. ![F2L-33-bas](images/svg/F2L/F2L-33.svg)  
 U2 R U R' U R U' R'
 
-34. ![F2L-34-bas](images/png/F2L/F2L-34.png)  
+34. ![F2L-34-bas](images/svg/F2L/F2L-34.svg)  
 U L' U2 L U2 L' U L
 
-35. ![F2L-35-bas](images/png/F2L/F2L-35.png)  
+35. ![F2L-35-bas](images/svg/F2L/F2L-35.svg)  
 R U R'
 
-36. ![F2L-36-bas](images/png/F2L/F2L-36.png)  
+36. ![F2L-36-bas](images/svg/F2L/F2L-36.svg)  
 U L' U' L U2 L' U L
 
-37. ![F2L-37-bas](images/png/F2L/F2L-37.png)  
+37. ![F2L-37-bas](images/svg/F2L/F2L-37.svg)  
 U L' U L U' F U F'
 
-38. ![F2L-38-bas](images/png/F2L/F2L-38.png)  
+38. ![F2L-38-bas](images/svg/F2L/F2L-38.svg)  
 U' R U' R' U F' U' F
 
-39. ![F2L-39-bas](images/png/F2L/F2L-39.png)  
+39. ![F2L-39-bas](images/svg/F2L/F2L-39.svg)  
 U' R U R' U2 R U' R'
 
-40. ![F2L-40-bas](images/png/F2L/F2L-40.png)  
+40. ![F2L-40-bas](images/svg/F2L/F2L-40.svg)  
 U' R U2 R' U2 R U' R'
 
-41. ![F2L-41-bas](images/png/F2L/F2L-41.png)  
+41. ![F2L-41-bas](images/svg/F2L/F2L-41.svg)  
 L' U' L
 
 ||||
