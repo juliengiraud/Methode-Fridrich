@@ -12,13 +12,14 @@ La version **X** du format **Markdown** correspond à la version **X** du format
 
 ### Version PDF
 
-Version actuelle : **1.2**
+Version actuelle : **1.3**
 
 | Numéro de version | Date de publication | Description |
 | ----------------- | ------------------- | ----------- |
 | 1.0 | 22/02/2015 | Première version du guide sous forme de 25 images compilés dans un PDF |
 | 1.1 | 30/12/2019 | Correction d'une erreur d'algorithme |
 | 1.2 | 03/05/2020 | Livret refait sous LibreOffice Draw : texte modifiable, images modifiables unes à unes, correction d'erreurs, amélioration des graphismes |
+| 1.3 | 14/05/2020 | Les 169 images du guide ont été refaites au format vectoriel sur Inkscape, le livret est maintenant 20 fois plus léger que la version 1.0 |
 
 ### Version Markdown
 

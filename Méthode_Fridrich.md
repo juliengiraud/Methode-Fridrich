@@ -217,7 +217,7 @@ Arrivée : ![moyen-cube-fait-L->U](images/svg/cubes/moyen-cube-fait-L->U.svg)
 
 Maintenant que vous pouvez lire tous les algorithmes de la méthode, il ne reste plus qu'à les apprendre !
 
-Si vous avez du mal je vous conseil de regarder mes astuces de mémorisation mais vous n'en avez pas besoin pour comprendre comment utiliser la méthode.
+Si vous avez du mal avec la mémorisation des algorithmes (voir pages suivantes) je vous conseil de regarder mes astuces de mémorisation mais vous n'en avez pas besoin pour comprendre comment utiliser la méthode.
 
 ||||
 |:-|:-:|-:|
