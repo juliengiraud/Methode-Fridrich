@@ -406,204 +406,204 @@ L' U' L
 
 ### Les carrés
 
-1. ![OLL-1](images/png/OLL/OLL-1.png)  
+1. ![OLL-1](images/svg/OLL/OLL-1.svg)  
 r U2 R' U' R U' r'
 
-2. ![OLL-2](images/png/OLL/OLL-2.png)  
+2. ![OLL-2](images/svg/OLL/OLL-2.svg)  
 l' U2' L U L' U l
 
 ### Les "W"
 
-3. ![OLL-3](images/png/OLL/OLL-3.png)  
+3. ![OLL-3](images/svg/OLL/OLL-3.svg)  
 R U R' U R U' R' U' l' U R U'
 
-4. ![OLL-4](images/png/OLL/OLL-4.png)  
+4. ![OLL-4](images/svg/OLL/OLL-4.svg)  
 R' U' R U' R' U R U l U' R' U
 
 ### Les "S"
 
-5. ![OLL-5](images/png/OLL/OLL-5.png)  
+5. ![OLL-5](images/svg/OLL/OLL-5.svg)  
 R' F R U R' U' F' U R
 
-6. ![OLL-6](images/png/OLL/OLL-6.png)  
+6. ![OLL-6](images/svg/OLL/OLL-6.svg)  
 L F' L' U' L U F U' L'
 
 ### Les "C"
 
-7. ![OLL-7](images/png/OLL/OLL-7.png)  
+7. ![OLL-7](images/svg/OLL/OLL-7.svg)  
 R' U' R' F R F' U R
 
-8. ![OLL-8](images/png/OLL/OLL-8.png)  
+8. ![OLL-8](images/svg/OLL/OLL-8.svg)  
 R U R' U' B' R' F R F' B
 
 ### Les "T"
 
-9. ![OLL-9](images/png/OLL/OLL-9.png)  
+9. ![OLL-9](images/svg/OLL/OLL-9.svg)  
 F R U R' U' F'
 
-10. ![OLL-10](images/png/OLL/OLL-10.png)  
+10. ![OLL-10](images/svg/OLL/OLL-10.svg)  
 R U R' U' l' U R U'
 
 ### Les éclairs
 
-11. ![OLL-11](images/png/OLL/OLL-11.png)  
+11. ![OLL-11](images/svg/OLL/OLL-11.svg)  
 r U R' U R U2 r'
 
-12. ![OLL-12](images/png/OLL/OLL-12.png)  
+12. ![OLL-12](images/svg/OLL/OLL-12.svg)  
 l' U' L U' L' U2 l
 
-13. ![OLL-13](images/png/OLL/OLL-13.png)  
+13. ![OLL-13](images/svg/OLL/OLL-13.svg)  
 r R2 U' R U' R' U2 R U' M
 
-14. ![OLL-14](images/png/OLL/OLL-14.png)  
+14. ![OLL-14](images/svg/OLL/OLL-14.svg)  
 r' R2 U R' U R U2 R' U M'
 
 ### Les flèches
 
-15. ![OLL-15](images/png/OLL/OLL-15.png)  
+15. ![OLL-15](images/svg/OLL/OLL-15.svg)  
 R' F R F' d' L' U L
 
-16. ![OLL-16](images/png/OLL/OLL-16.png)  
+16. ![OLL-16](images/svg/OLL/OLL-16.svg)  
 R' U2 l R U' R' U l' U2 R
 
-17. ![OLL-17](images/png/OLL/OLL-17.png)  
+17. ![OLL-17](images/svg/OLL/OLL-17.svg)  
 R' U' R L→F U→F R U' R' F R U R'
 
-18. ![OLL-18](images/png/OLL/OLL-18.png)  
+18. ![OLL-18](images/svg/OLL/OLL-18.svg)  
 R U R' D→F R→U R' U R B' R' U' R
 
 ### Les "P"
 
-19. ![OLL-19](images/png/OLL/OLL-19.png)  
+19. ![OLL-19](images/svg/OLL/OLL-19.svg)  
 F' L F L' U' L' U' L U L' U L
 
-20. ![OLL-20](images/png/OLL/OLL-20.png)  
+20. ![OLL-20](images/svg/OLL/OLL-20.svg)  
 F R' F' R U R U R' U' R U' R'
 
-21. ![OLL-21](images/png/OLL/OLL-21.png)  
+21. ![OLL-21](images/svg/OLL/OLL-21.svg)  
 F U R U' R' F'
 
-22. ![OLL-22](images/png/OLL/OLL-22.png)  
+22. ![OLL-22](images/svg/OLL/OLL-22.svg)  
 F' U' L' U L F
 
 ### Les figures étranges
 
-23. ![OLL-23](images/png/OLL/OLL-23.png)  
+23. ![OLL-23](images/svg/OLL/OLL-23.svg)  
 B' R B' R2 U R U R' U' l U2
 
-24. ![OLL-24](images/png/OLL/OLL-24.png)  
+24. ![OLL-24](images/svg/OLL/OLL-24.svg)  
 R2 U R' B' R U' R2 U l U l'
 
-25. ![OLL-25](images/png/OLL/OLL-25.png)  
+25. ![OLL-25](images/svg/OLL/OLL-25.svg)  
 R U2 R' U' R U' R2 R→F L' U' L U F
 
-26. ![OLL-26](images/png/OLL/OLL-26.png)  
+26. ![OLL-26](images/svg/OLL/OLL-26.svg)  
 L' U2 L U L' U L2 L→F R U R' U' F'
 
 ### Les lignes
 
-27. ![OLL-27](images/png/OLL/OLL-27.png)  
+27. ![OLL-27](images/svg/OLL/OLL-27.svg)  
 R' U2 R2 U R' U R U2 B' R' B
 
-28. ![OLL-28](images/png/OLL/OLL-28.png)  
+28. ![OLL-28](images/svg/OLL/OLL-28.svg)  
 L' B' L U' R' U R U' R' U R L' B L
 
-29. ![OLL-29](images/png/OLL/OLL-29.png)  
+29. ![OLL-29](images/svg/OLL/OLL-29.svg)  
 F U R U' R' U R U' R' F'
 
-30. ![OLL-30](images/png/OLL/OLL-30.png)  
+30. ![OLL-30](images/svg/OLL/OLL-30.svg)  
 R U R' U R d' R U' R' F'
 
 ### Les "L"
 
-31. ![OLL-31](images/png/OLL/OLL-31.png)  
+31. ![OLL-31](images/svg/OLL/OLL-31.svg)  
 R' F R U l' U' l L→F R U' R'
 
-32. ![OLL-32](images/png/OLL/OLL-32.png)  
+32. ![OLL-32](images/svg/OLL/OLL-32.svg)  
 L F' L' U' r U r R→F L' U L
 
-33. ![OLL-33](images/png/OLL/OLL-33.png)  
+33. ![OLL-33](images/svg/OLL/OLL-33.svg)  
 L' B' L R' U' R U L' B L
 
-34. ![OLL-34](images/png/OLL/OLL-34.png)  
+34. ![OLL-34](images/svg/OLL/OLL-34.svg)  
 R B R' L U L' U' R B' R'
 
 ### Les coins
 
-35. ![OLL-35](images/png/OLL/OLL-35.png)  
+35. ![OLL-35](images/svg/OLL/OLL-35.svg)  
 F R U R' U' R U R' U' F'
 
-36. ![OLL-36](images/png/OLL/OLL-36.png)  
+36. ![OLL-36](images/svg/OLL/OLL-36.svg)  
 F' L' U' L U L' U' L U F
 
-37. ![OLL-37](images/png/OLL/OLL-37.png)  
+37. ![OLL-37](images/svg/OLL/OLL-37.svg)  
 l' U R' U' l R U2 B' R B R'
 
-38. ![OLL-38](images/png/OLL/OLL-38.png)  
+38. ![OLL-38](images/svg/OLL/OLL-38.svg)  
 r U' L U r' L' U2 B L' B' L
 
-39. ![OLL-39](images/png/OLL/OLL-39.png)  
+39. ![OLL-39](images/svg/OLL/OLL-39.svg)  
 r U R' U R U' R' U R U2 r'
 
-40. ![OLL-40](images/png/OLL/OLL-40.png)  
+40. ![OLL-40](images/svg/OLL/OLL-40.svg)  
 l' U' L U' L' U L U' L' U2 l
 
 ### Tous les coins bien orientés
 
-41. ![OLL-41](images/png/OLL/OLL-41.png)  
+41. ![OLL-41](images/svg/OLL/OLL-41.svg)  
 R U R' U' M' U R U' r'
 
-42. ![OLL-42](images/png/OLL/OLL-42.png)  
+42. ![OLL-42](images/svg/OLL/OLL-42.svg)  
 r U R' U' M U R U' R'
 
-43. ![OLL-43](images/png/OLL/OLL-43.png)  
+43. ![OLL-43](images/svg/OLL/OLL-43.svg)  
 M U R U R' U' M2 U R U' r'
 
 ### Aucune arête bien orientée
 
-44. ![OLL-44](images/png/OLL/OLL-44.png)  
+44. ![OLL-44](images/svg/OLL/OLL-44.svg)  
 R U2 R2 F R F' U2 R' F R F'
 
-45. ![OLL-45](images/png/OLL/OLL-45.png)  
+45. ![OLL-45](images/svg/OLL/OLL-45.svg)  
 M U R U R' U' r R2 F R F'
 
-46. ![OLL-46](images/png/OLL/OLL-46.png)  
+46. ![OLL-46](images/svg/OLL/OLL-46.svg)  
 F R U R' U L→F R' U2 R' F R F'
 
-47. ![OLL-47](images/png/OLL/OLL-47.png)  
+47. ![OLL-47](images/svg/OLL/OLL-47.svg)  
 M U' r U2 r' U' R U' r R2
 
-48. ![OLL-48](images/png/OLL/OLL-48.png)  
+48. ![OLL-48](images/svg/OLL/OLL-48.svg)  
 M' U r' U2 r U R' U r' R2
 
-49. ![OLL-49](images/png/OLL/OLL-49.png)  
+49. ![OLL-49](images/svg/OLL/OLL-49.svg)  
 R U R' U R' F R F' U2 R' F R F'
 
-50. ![OLL-50](images/png/OLL/OLL-50.png)  
+50. ![OLL-50](images/svg/OLL/OLL-50.svg)  
 D→F U R' U' l U R2 B' R' B U' R'
 
 ### Toutes les arêtes bien orientées
 
-51. ![OLL-51](images/png/OLL/OLL-51.png)  
+51. ![OLL-51](images/svg/OLL/OLL-51.svg)  
 U2 R U2 R D R' U2 R D' R2  
 R U2 R' U' R U R' U' R U R' U' R U' R'
 
-52. ![OLL-52](images/png/OLL/OLL-52.png)  
+52. ![OLL-52](images/svg/OLL/OLL-52.svg)  
 l' U' L U R U' L' U
 
-53. ![OLL-53](images/png/OLL/OLL-53.png)  
+53. ![OLL-53](images/svg/OLL/OLL-53.svg)  
 R2 D R' U2 R D' R' U2 R'
 
-54. ![OLL-54](images/png/OLL/OLL-54.png)  
+54. ![OLL-54](images/svg/OLL/OLL-54.svg)  
 L' U2 L U L' U L
 
-55. ![OLL-55](images/png/OLL/OLL-55.png)  
+55. ![OLL-55](images/svg/OLL/OLL-55.svg)  
 R U2 R' U' R U' R'
 
-56. ![OLL-56](images/png/OLL/OLL-56.png)  
+56. ![OLL-56](images/svg/OLL/OLL-56.svg)  
 R U R' U R U' R' U R U2 R'
 
-57. ![OLL-57](images/png/OLL/OLL-57.png)  
+57. ![OLL-57](images/svg/OLL/OLL-57.svg)  
 R U2 R2 U' R2 U' R2 U2 R
 
 Si vous n'avez pas le courage de tout apprendre du premier coup vous pouvez faire cette étape en **plusieurs fois**. En apprenant les algorithmes **9, 21** et **de 51 à 57** vous pouvez réaliser les OLL en 3 étapes maximum.  
