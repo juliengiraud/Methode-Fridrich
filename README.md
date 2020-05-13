@@ -22,23 +22,15 @@ Version actuelle : **1.2**
 
 ### Version Markdown
 
-Version actuelle : **1.2**
+Version actuelle : **1.3**
 
 | Numéro de version | Date de publication | Description |
 | ----------------- | ------------------- | ----------- |
 | 1.2 | 03/05/2020 | Première version du livret en Markdown |
+| 1.3 | 13/05/2020 | Les 169 images du guide ont été refaites au format vectoriel sur Inkscape |
 
 ## Changements à venir
 
-1. Je suis entrain de refaire toutes les images (169/169) au format vectoriel sur Inkscape :
+1. Je souhaite avoir une version web de ce guide, basée sur la version Markdown
 
-    - *images/* → 4 images refaites
-    - *images/cubes* → 13 images refaites
-    - *images/F2L* → 41 images refaites
-    - *images/mouvements* → 33 images refaites
-    - *images/OLL* → 57 images refaites
-    - *images/PLL* → 21 images refaites
-
-2. Je souhaite avoir une version web de ce guide, basée sur la version Markdown
-
-3. À long terme je souhaite revoir toute la structure du guide, reformuler certaines explications, ajouter des illustrations... bref, améliorer tout ça en fait !
+2. À long terme je souhaite revoir toute la structure du guide, reformuler certaines explications, ajouter des illustrations... bref, améliorer tout ça en fait !

@@ -670,7 +670,7 @@ F R U' R' U' R U R' F' R U R' U' R' F R F'
 U R2 U2 F2 U' R2 U2 R2 F2 U' F2 U2 F2 R2
 
 16. ![PLL-16](images/svg/PLL/PLL-16.svg)  
-'U R2 U2 B2 U R2 U2 R2 B2 U B2 U2 B2 R2
+U' R2 U2 B2 U R2 U2 R2 B2 U B2 U2 B2 R2
 
 17. ![PLL-17](images/svg/PLL/PLL-17.svg)  
 R' U R' U' B' R' B2 U' B' U B' R B R
