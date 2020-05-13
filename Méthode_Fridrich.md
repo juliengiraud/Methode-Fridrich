@@ -621,70 +621,70 @@ Vous pouvez donc commencer par apprendre ces 9 algorithmes avant d'apprendre les
 
 ## Méthode Fridrich : Les 21 PLL (Permutation Last Layer)
 
-1. ![PLL-1](images/png/PLL/PLL-1.png)  
+1. ![PLL-1](images/svg/PLL/PLL-1.svg)  
 R' U R' U' R' U' R' U R U R2
 
-2. ![PLL-2](images/png/PLL/PLL-2.png)  
+2. ![PLL-2](images/svg/PLL/PLL-2.svg)  
 R2 U' R' U' R U R U R U' R
 
-3. ![PLL-3](images/png/PLL/PLL-3.png)  
+3. ![PLL-3](images/svg/PLL/PLL-3.svg)  
 U M2 U' M2 U' M' U2 M2 U2 M' U
 
-4. ![PLL-4](images/png/PLL/PLL-4.png)  
+4. ![PLL-4](images/svg/PLL/PLL-4.svg)  
 M2 U M2 U2 M2 U M2
 
-5. ![PLL-5](images/png/PLL/PLL-5.png)  
+5. ![PLL-5](images/svg/PLL/PLL-5.svg)  
 D→F R2 D2 R U R' D2 R U' R
 
-6. ![PLL-6](images/png/PLL/PLL-6.png)  
+6. ![PLL-6](images/svg/PLL/PLL-6.svg)  
 U→F R2 D2 R' U' R D2 R' U R'
 
-7. ![PLL-7](images/png/PLL/PLL-7.png)  
+7. ![PLL-7](images/svg/PLL/PLL-7.svg)  
 U→F U D R D' L D R' U' D' R U L' U' R'  
 D→F U R' U' L U R U' r2 U' R U L U' R' U  
 l' U' L' U R U' L U R' U' L U R U' L' U
 
-8. ![PLL-8](images/png/PLL/PLL-8.png)  
+8. ![PLL-8](images/svg/PLL/PLL-8.svg)  
 R U R' U' R' F R2 U' R' U' R U R' F'
 
-9. ![PLL-9](images/png/PLL/PLL-9.png)  
+9. ![PLL-9](images/svg/PLL/PLL-9.svg)  
 R' U' F' R U R' U' R' F R2 U' R' U' R U R' U R
 
-10. ![PLL-10](images/png/PLL/PLL-10.png)  
+10. ![PLL-10](images/svg/PLL/PLL-10.svg)  
 R' U2 R U2 R' F R U R' U' R' F' R2 U'
 
-11. ![PLL-11](images/png/PLL/PLL-11.png)  
+11. ![PLL-11](images/svg/PLL/PLL-11.svg)  
 R U2 R' U2 R B' R' U' R U l U R2 F
 
-12. ![PLL-12](images/png/PLL/PLL-12.png)  
+12. ![PLL-12](images/svg/PLL/PLL-12.svg)  
 R U R' F' R U R' U' R' F R2 U' R' U'
 
-13. ![PLL-13](images/png/PLL/PLL-13.png)  
+13. ![PLL-13](images/svg/PLL/PLL-13.svg)  
 R' U2 R U R' d2 R U' L U R'  
 R→F R→F L' U' L F L' U' L U L F' L2 U L U
 
-14. ![PLL-14](images/png/PLL/PLL-14.png)  
+14. ![PLL-14](images/svg/PLL/PLL-14.svg)  
 F R U' R' U' R U R' F' R U R' U' R' F R F'
 
-15. ![PLL-15](images/png/PLL/PLL-15.png)  
+15. ![PLL-15](images/svg/PLL/PLL-15.svg)  
 U R2 U2 F2 U' R2 U2 R2 F2 U' F2 U2 F2 R2
 
-16. ![PLL-16](images/png/PLL/PLL-16.png)  
+16. ![PLL-16](images/svg/PLL/PLL-16.svg)  
 'U R2 U2 B2 U R2 U2 R2 B2 U B2 U2 B2 R2
 
-17. ![PLL-17](images/png/PLL/PLL-17.png)  
+17. ![PLL-17](images/svg/PLL/PLL-17.svg)  
 R' U R' U' B' R' B2 U' B' U B' R B R
 
-18. ![PLL-18](images/png/PLL/PLL-18.png)  
+18. ![PLL-18](images/svg/PLL/PLL-18.svg)  
 R2 u' R U' R U R' u R2 B U' B'
 
-19. ![PLL-19](images/png/PLL/PLL-19.png)  
+19. ![PLL-19](images/svg/PLL/PLL-19.svg)  
 R' U' R R→F R2 u R' U R U' R u' R2
 
-20. ![PLL-20](images/png/PLL/PLL-20.png)  
+20. ![PLL-20](images/svg/PLL/PLL-20.svg)  
 R2 u R' U R' U' R u' R2 F' U F
 
-21. ![PLL-21](images/png/PLL/PLL-21.png)  
+21. ![PLL-21](images/svg/PLL/PLL-21.svg)  
 R U R' L→F R2 u' R U' R' U R' u R2
 
 Tout comme les OLL vous n'êtes pas obligés de tout apprendre. En apprenant les algorithmes **1, 2** et **de 4 à 8** vous pouvez terminer le cube en 2 étapes maximum.  
