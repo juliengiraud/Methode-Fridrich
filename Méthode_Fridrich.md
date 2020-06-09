@@ -10,6 +10,8 @@ Réalisé par **Julien Giraud**
 
 [Site internet](https://www.julien-giraud.fr)
 
+Dernière modification : 14/05/2020
+
 ---
 
 ## Méthode Fridrich : Sommaire
