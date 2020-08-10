@@ -10,7 +10,7 @@ Réalisé par **Julien Giraud**
 
 [Site internet](https://www.julien-giraud.fr)
 
-Dernière modification : 25/06/2020
+Dernière modification : 10/08/2020
 
 ---
 
@@ -522,7 +522,7 @@ R U R' U R d' R U' R' F'
 R' F R U l' U' l L→F R U' R'
 
 32. ![OLL-32](images/svg/OLL/OLL-32.svg)
-L F' L' U' r U r R→F L' U L
+L F' L' U' r U r' R→F L' U L
 
 33. ![OLL-33](images/svg/OLL/OLL-33.svg)
 L' B' L R' U' R U L' B L
