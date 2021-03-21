@@ -1,6 +1,6 @@
 # Méthode Fridrich
 
-Ce dossier contient un guide complet sur la méthode Fridrich utilisée pour résoudre le Rubik's Cube 3x3x3
+Ce dépôt contient un guide complet sur la méthode Fridrich utilisée pour résoudre le Rubik's Cube 3x3x3
 
 - [Voir la version PDF](Méthode_Fridrich.pdf)
 
