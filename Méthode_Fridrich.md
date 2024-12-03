@@ -6,8 +6,6 @@
 
 Réalisé par **Julien Giraud**
 
-[Chaîne YouTube](https://www.youtube.com/julien-craf)
-
 [Site internet](https://www.julien-giraud.fr)
 
 Dernière modification : 10/08/2020
