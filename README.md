@@ -10,7 +10,7 @@ Ce dépôt contient un guide complet sur la méthode Fridrich utilisée pour ré
 
 ## Historique des versions
 
-J'utilise le même système de numéro de version que dans les logiciels informatiques, **X**`.`**Y**`.`**Z** où :
+J'utilise le même système de numéro de version que dans les logiciels informatiques, `X.Y.Z` où :
 
 - `X` est le numéro principal de la version (1, ce numéro passera à 2 si un jour je réécris complètement le guide),
 - `Y` est le numéro du contenu, chaque fois qu'un nouvel élément de contenu est ajouté ce numéro est incrémenté,
@@ -28,7 +28,7 @@ Version actuelle : **1.3.1**
 | 1.1.0 | 2019-12-30 | Correction d'une erreur d'algorithme |
 | 1.2.0 | 2020-05-03 | Guide refait sous LibreOffice Draw : texte modifiable, images modifiables unes à unes, correction d'erreurs, amélioration des graphismes |
 | 1.3.0 | 2020-05-14 | Les 169 images du guide ont été refaites au format vectoriel sur Inkscape, le guide est maintenant 20 fois plus léger que la version 1.0 |
-| 1.3.1 | 2024-12-03 | Les images des mouvements `l` et `l2` étaient inversées, merci @juans64 pour l'issue ! |
+| 1.3.1 | 2024-12-03 | Les images des mouvements `l` et `l2` étaient inversées, merci @juans64 pour l'issue #1 ! |
 
 ### Version Markdown
 
